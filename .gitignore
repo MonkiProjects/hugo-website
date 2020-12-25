@@ -1,0 +1,13 @@
+# MacOS system files
+.DS_Store
+
+# Other
+Thumbs.db
+.dist
+.tmp
+.sass-cache
+npm-debug.log
+node_modules
+builds
+package-lock.json
+Public
