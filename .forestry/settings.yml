@@ -17,6 +17,14 @@ sections:
   create: documents
   match: "*"
   exclude: _index.md
+- type: heading
+  label: "\U0001F1EB\U0001F1F7 Français"
+- type: directory
+  path: content/french/blog
+  label: Blog
+  create: all
+  match: "*"
+  exclude: _index.md
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
