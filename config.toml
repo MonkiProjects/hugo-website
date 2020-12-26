@@ -1,5 +1,5 @@
 ################################### Default Configuration ############################
-baseurl = "https://monkiprojects.com/"
+baseurl = "https://www.monkiprojects.com/"
 title = "Home | Monki Projects"
 theme = "vex-hugo"
 # post excert
