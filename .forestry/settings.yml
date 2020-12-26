@@ -8,6 +8,7 @@ sections:
   path: content
   label: Pages
   create: all
+  match: "*"
 - type: heading
   label: "\U0001F1EC\U0001F1E7 English"
 - type: directory
@@ -15,6 +16,7 @@ sections:
   label: Blog
   create: documents
   match: "*"
+  exclude: _index
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
