@@ -5,7 +5,7 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
-  path: content/English/blog/*
+  path: content/english/blog/*
   label: Blog - English
   match: "**/*"
 - type: directory
