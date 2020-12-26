@@ -4,18 +4,17 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: heading
-  label: English
-- type: directory
-  path: content/english/blog
-  label: Blog - English
-  create: documents
-  match: "*"
 - type: directory
   path: content
   label: Pages
   create: all
-  match: "**/*"
+- type: heading
+  label: "\U0001F1EC\U0001F1E7 English"
+- type: directory
+  path: content/english/blog
+  label: Blog
+  create: documents
+  match: "*"
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
