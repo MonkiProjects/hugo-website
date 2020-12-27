@@ -2,7 +2,6 @@
 baseurl = "https://www.monkiprojects.com/"
 title = "Home | Monki Projects"
 theme = "vex-hugo"
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
 # post excert
 summarylength = "20"
 
@@ -114,6 +113,9 @@ languageName = "English"
 languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
+
+# Language overrides
+copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
 
 
 ################################### French language #####################################

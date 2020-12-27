@@ -1,67 +1,41 @@
-############################# banner ############################
+############################# Bannière ############################
 banner:
   enable: true
   title: "Monki Projects"
-  content: "Ensemble, rendons le parkour meilleur"
+  content: "Monki Projects est un ensemble de projets qui partagent l'objectif d'aider la communauté du parkour et son développement. Le projet global a été créé dans le but de combler les besoins de la communauté.<br/>
+            Nous sommes une équipe de développeurs utilisant leurs compétences pour créer des applications et des outils pour la communauté.<br/>
+            Si vous pensez pouvoir aider de quelque manière que ce soit, n'hésitez pas, on est très ouverts 😀"
   image: "images/icon/Icon-Colored.svg"
   button:
    enable: true
-   label: "Voir toutes les apps"
+   label: "Voir nos applications"
    link: "products"
 
-############################# Feature ############################
+
+############################# Valeurs ############################
 features:
   enable: true
-  title: "Fonctionnalités principales de Monki Map"
-  image: "images/showcase/monki-map.png"
+  title: "Les valeurs de Monki Projects"
+  image: "images/icon/Logo-Vertical.png"
 
-  # feature at the left of the image
+  # À gauche de l'image
   left_side:
-  - title: "Données détaillées"
-    icon: "tf-ion-filing"
-    content: "Les lieux ont tellement d'informations que vous les connaîssez déjà avant d'y être allé"
-  - title: "Recherche performante"
-    icon: "tf-ion-android-search"
-    content: "Filtrez facilement les lieux pour afficher seulement ce qui compte"
-  - title: "Belle carte"
-    icon: "tf-ion-android-map"
-    content: "La carte est épurée, et affiche la bonne quantité d'informations"
-  - title: "Plusieurs langues"
-    icon: "tf-ion-ios-world"
-    content: "L'application est disponible en français, en anglais, et bientôt dans d'autres langues!"
+  - title: "Vie privée"
+    icon: "tf-ion-locked"
+    content: "On fera toujours de notre mieux pour garder vos informations privées. On garde tout sur vos appareils, sauf si on en a vraiment besoin — et on vous demande avant d'envoyer vos informations à travers internet."
 
-  # feature at the right of the image
+  # À droite de l'image
   right_side:
-  - title: "La collaboration est la clé"
+  - title: "Collaboration"
     icon: "tf-ion-android-people"
-    content: "Tout le monde peut collaborer, peu importe qui c'est, depuis n'importe où sur le globe"
-  - title: "Fonctionne hors-ligne"
-    icon: "tf-ion-connection-bars"
-    content: "L'application a été pensée avec l'utilisation hors-ligne au cœur de sa structure"
-  - title: "Pas chère"
-    icon: "tf-ion-ios-cart"
-    content: "Elle est gratuite 🙂"
-  - title: "Mode sombre"
-    icon: "tf-ion-ios-sunny"
-    content: "L'application est magnifique en mode sombre 😍"
+    content: "On croit fortement en la collaboration. Pour cette raison, on partage une grande partie de notre code et de notre infrastructure sur GitHub, et on essaie d'écrire le plus d'articles transparents que possible. N'importe qui peut collaborer, peu importe qui c'est, depuis n'importe où sur le globe."
 
 
-############################# promo ############################
-promo:
-  enable: true
-  image: "images/testflight-128x128_2x.png"
-  title: "Bêta privée iOS"
-  content: "Monki Map est finalement disponible sur TestFlight pour une bêta privée!<br/>
-            On travaille dur pour faire de cette application l'application la plus utile pour la communauté. On compte sur vous pour faire des retours, faire des suggestions et signaler les bugs que vous trouvez.<br/>
-            Pour l'instant on se concentre sur des personnes expérimentés, mais bientôt on ouvrira la bêta pour vous tous 😀"
-
-
-############################# About Product #######################
+############################# Détails Applications #######################
 about_product:
   enable: true
   title: "Différentes applications, différentes fonctionnalités"
   items:
-    # about product item loop
     - image: "images/iPhoneX.svg"
       title: "Trouvez les meilleurs spots, juste à côté de vous."
       content: "Avec Monki Map, vous trouverez facilement les meilleurs endroits pour vous entraîner. Et si vous voulez vous entraîner avec d'autres, vous le trouverez aussi."
@@ -71,13 +45,13 @@ about_product:
         link: "products/monki-map"
 
 
-#################################### Products ########################
+#################################### Applications ########################
 products:
   enable: true
-  title: "Consultez toutes nos apps"
+  title: "Toutes nos applications"
 
 
-################################## Subscription ###################
+################################## Abonnement ###################
 # subscription:
 #   enable: true
 #   bg_image: "images/call-to-action.jpg"
@@ -86,12 +60,11 @@ products:
 #   placeholder: "Your Email Address Here"
 
 
-############################## Testimonial ##########################
+############################## Témoignages ##########################
 # testimonial:
 #   enable: true
 #   title: "Watch Review"
 #   testimonial_item:
-#     # testimonial item loop
 #     - name: "Jonathon Andrew"
 #       designation: "CEO, Themefisher"
 #       image: "images/avater.png"
