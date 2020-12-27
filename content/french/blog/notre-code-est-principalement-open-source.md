@@ -2,8 +2,9 @@
 title: "Une grande partie de notre code et de notre infrastructure est *open-source*, n'hésitez pas à contribuer"
 date: 2020-12-25T22:20:34+01:00
 image: "uploads/GitHub-256.png"
-description : "Une grande partie de notre code et de notre infrastructure est *open-source*, n'hésitez pas à contribuer | Un article de Monki Projects"
+description: "Une grande partie de notre code et de notre infrastructure est *open-source*, n'hésitez pas à contribuer | Un article de Monki Projects"
 draft: false
+translationKey: "blog/our-code-is-mainly-open-source"
 ---
 
 > Cet article est destiné à des développeurs. Vous pouvez essayer de le lire sans l'être, mais on ne vous promet pas que vous comprendrez 🙃
