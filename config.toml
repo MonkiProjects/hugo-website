@@ -2,14 +2,20 @@
 baseurl = "https://www.monkiprojects.com/"
 title = "Home | Monki Projects"
 theme = "vex-hugo"
+copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
 # post excert
 summarylength = "20"
-# disable language
-disableLanguages = [] # disable language from here
 
 # unsafe html
 [markup.goldmark.renderer]
 unsafe = true
+
+
+#################################### Multilingual Mode ##########################################
+
+defaultContentLanguage = "en"
+disableLanguages = []
+
 
 #################################### Plugins ##########################################
 
@@ -98,22 +104,81 @@ contact_form_action = "#" # contact form works with https://formspree.io
 enable = true
 preloader = "" # use .png , .svg or .gif format
 
+[params.navigation]
+help = "Help"
+
 
 ################################### English language #####################################
-[Languages.en]
-languageName = "En"
+[languages.en]
+languageName = "English"
 languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
-# copyright
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
 
 
 ################################### French language #####################################
-[Languages.fr]
-languageName = "Fr"
+[languages.fr]
+languageName = "Français"
 languageCode = "fr-fr"
 contentDir = "content/french"
 weight = 2
-# copyright
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+
+# Language overrides
+title = "Accueil | Monki Projects"
+copyright = "Conçu par [Themefisher](https://themefisher.com/) & Développé par [Gethugothemes](https://gethugothemes.com/)"
+
+[languages.fr.params.navigation]
+help = "Aide"
+
+# homepage section menu
+[[languages.fr.menu.main]]
+name = "Accueil"
+url = "/"
+weight = 1
+
+[[languages.fr.menu.main]]
+name = "Apps"
+url = "products"
+weight = 2
+
+[[languages.fr.menu.main]]
+name = "Blog"
+url = "blog"
+weight = 3
+
+#[[languages.fr.menu.main]]
+#name = "Témoignages"
+#pre = "#"
+#url = "testimonial"
+#weight = 4
+
+[[languages.fr.menu.main]]
+name = "Contact"
+url = "contact"
+weight = 5
+
+# footer menu
+[[languages.fr.menu.footer]]
+name = "Apps"
+url = "products"
+weight = 1
+
+[[languages.fr.menu.footer]]
+name = "Blog"
+url = "blog"
+weight = 2
+
+[[languages.fr.menu.footer]]
+name = "Contact"
+url = "contact"
+weight = 3
+
+[[languages.fr.menu.footer]]
+name = "Termes & Conditions"
+url = "terms-conditions"
+weight = 99
+
+[[languages.fr.menu.footer]]
+name = "Politique de Confidentialité"
+url = "privacy-policy"
+weight = 100
