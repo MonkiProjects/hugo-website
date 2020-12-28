@@ -93,7 +93,7 @@ weight = 4
 logo = "images/icon/Logo-Horizontal.png"
 logo_width = "256px"
 # Meta data
-description = "This is meta description"
+description = "Making apps and tools for the parkour — an urban sport — community."
 author = "Themefisher"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
@@ -128,6 +128,9 @@ weight = 2
 # Language overrides
 title = "Accueil | Monki Projects"
 copyright = "Conçu par [Themefisher](https://themefisher.com/) & Développé par [Gethugothemes](https://gethugothemes.com/)"
+
+[languages.fr.params]
+description = "Des applications et des outils pour la communauté du parkour – un sport urbain."
 
 [languages.fr.params.navigation]
 help = "Aide"
