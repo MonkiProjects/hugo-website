@@ -6,9 +6,9 @@ webhook_url:
 sections:
 - type: directory
   path: content
-  label: Pages
+  label: All Pages
   create: all
-  match: "*"
+  match: "**/*"
 - type: heading
   label: "\U0001F1EC\U0001F1E7 English"
 - type: directory
@@ -17,6 +17,24 @@ sections:
   create: documents
   match: "*"
   exclude: _index.md
+- type: directory
+  path: content/english/products
+  label: Apps
+  create: documents
+  match: "*"
+  exclude: _index.md
+- type: document
+  path: content/english/contact/_index.md
+  label: Contact
+  match: "**/*"
+- type: document
+  path: content/english/privacy-policy/_index.md
+  label: Privacy Policy
+  match: "**/*"
+- type: document
+  path: content/english/terms-conditions/_index.md
+  label: Terms & Conditions
+  match: "**/*"
 - type: heading
   label: "\U0001F1EB\U0001F1F7 Français"
 - type: directory
@@ -25,6 +43,24 @@ sections:
   create: documents
   match: "*"
   exclude: _index.md
+- type: directory
+  path: content/french/products
+  label: Apps
+  create: documents
+  match: "*"
+  exclude: _index.md
+- type: document
+  path: content/french/contact/_index.md
+  label: Contact
+  match: "**/*"
+- type: document
+  path: content/french/privacy-policy/_index.md
+  label: Politique de Confidentialité
+  match: "**/*"
+- type: document
+  path: content/french/terms-conditions/_index.md
+  label: Termes & Conditions
+  match: "**/*"
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
