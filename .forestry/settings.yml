@@ -22,7 +22,7 @@ sections:
 - type: directory
   path: content/french/blog
   label: Blog
-  create: all
+  create: documents
   match: "*"
   exclude: _index.md
 upload_dir: static/uploads
