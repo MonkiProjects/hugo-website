@@ -18,7 +18,7 @@ sections:
   match: "*"
   exclude: _index.md
 - type: directory
-  path: content/english/products
+  path: content/english/apps
   label: Apps
   create: documents
   match: "*"
@@ -44,7 +44,7 @@ sections:
   match: "*"
   exclude: _index.md
 - type: directory
-  path: content/french/products
+  path: content/french/apps
   label: Apps
   create: documents
   match: "*"

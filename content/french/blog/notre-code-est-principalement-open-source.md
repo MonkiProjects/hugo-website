@@ -32,7 +32,7 @@ Si vous voyez une erreur ou que vous voulez juste contribuer, n'hésitez pas à 
 
 Comme nos APIs sont très documentées, vous pouvez les utiliser pour développer des projets personnels et contribuer à notre base de données collaborative. Cependant, vous devez [nous contacter](/contact) avant de publier tout programme utilisant nos APIs sur le marché. On adorerait voir des gens utiliser votre travail, mais on veut discuter avec vous avant 😉
 
-Pour l'instant, on travaille sur une version iOS de [Monki Map](/products/monki-map), alors si vous avez des compétences sur une autre plateforme (mobile ou *desktop*) et que vous voulez nous aider, [contactez nous](/contact).
+Pour l'instant, on travaille sur une version iOS de [Monki Map](/apps/monki-map), alors si vous avez des compétences sur une autre plateforme (mobile ou *desktop*) et que vous voulez nous aider, [contactez nous](/contact).
 
 ## Auteur
 

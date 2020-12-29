@@ -9,7 +9,7 @@ banner:
   button:
    enable: true
    label: "Browse Our Apps"
-   link: "products"
+   link: "apps"
 
 
 ############################# Values ############################
@@ -32,7 +32,7 @@ features:
 
 
 ############################# Applications details #######################
-about_product:
+about_app:
   enable: true
   title: "Different apps, different tasks"
   items:
@@ -42,11 +42,11 @@ about_product:
       button:
         enable: true
         label: "Explore Monki Map"
-        link: "products/monki-map"
+        link: "apps/monki-map"
 
 
 #################################### Applications ########################
-products:
+apps:
   enable: true
   title: "Have a look at our apps"
 
@@ -55,7 +55,7 @@ products:
 # subscription:
 #   enable: true
 #   bg_image: "images/call-to-action.jpg"
-#   title: "Get Product Updates"
+#   title: "Get App Updates"
 #   content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod"
 #   placeholder: "Your Email Address Here"
 
