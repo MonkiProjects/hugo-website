@@ -1,10 +1,12 @@
 ---
-title: "Une grande partie de notre code et de notre infrastructure est *open-source*, n'hésitez pas à contribuer"
+title: Une grande partie de notre code et de notre infrastructure est *open-source*, n'hésitez pas à contribuer!
 date: 2020-12-25T22:20:34+01:00
-image: "uploads/GitHub-256.png"
-description: "Une grande partie de notre code et de notre infrastructure est *open-source*, n'hésitez pas à contribuer | Un article de Monki Projects"
+image: uploads/articles/french/notre-code-est-principalement-open-source.jpg
+description: Hormis le code de nos applications et de nos APIs, on partage tout publiquement sur notre compte GitHub.
 draft: false
-translationKey: "blog/our-code-is-mainly-open-source"
+translationKey: blog/our-code-is-mainly-open-source
+
+author: Rémi Bardon
 ---
 
 > Cet article est destiné à des développeurs. Vous pouvez essayer de le lire sans l'être, mais on ne vous promet pas que vous comprendrez 🙃
@@ -37,4 +39,4 @@ Pour l'instant, on travaille sur une version iOS de [Monki Map](/apps/monki-map)
 ## Auteur
 
 **Rémi Bardon**  
-Créateur de Monki Projects, principal (et seul) dévelopeur
+Créateur de Monki Projects, principal (et seul) développeur

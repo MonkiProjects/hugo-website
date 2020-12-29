@@ -1,3 +1,5 @@
+image: "images/icon/Icon-Colored.svg"
+
 ############################# Bannière ############################
 banner:
   enable: true

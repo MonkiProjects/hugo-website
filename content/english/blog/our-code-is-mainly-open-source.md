@@ -1,9 +1,11 @@
 ---
-title: "A big part of our code and infrastructure is open-source, feel free to contribute"
+title: A big part of our code and infrastructure is open-source, feel free to contribute!
 date: 2020-12-25T22:20:34+01:00
-image: "uploads/GitHub-256.png"
-description : "A big part of our code and infrastructure is open-source, feel free to contribute | An article by Monki Projects"
+image: uploads/articles/english/our-code-is-mainly-open-source.jpg
+description : Apart from the code of our apps and APIs, we share everything publicly on our GitHub account.
 draft: false
+
+author: Rémi Bardon
 ---
 
 > This article is aimed at developers. You can try to read it if you're not a developer, but we don't promise that you will understand 🙃
