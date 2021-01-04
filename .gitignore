@@ -1,13 +1,12 @@
-# MacOS system files
+### macOS ###
 .DS_Store
 
-# Other
-Thumbs.db
-.dist
-.tmp
-.sass-cache
-npm-debug.log
+### Hugo ###
+# Generated files by hugo
+/public/
+/resources/_gen/
+hugo_stats.json
+
+### Node ###
 node_modules
-builds
 package-lock.json
-Public
