@@ -33,31 +33,31 @@ features:
   # feature at the left of the image
   left_side:
   - title: "Données détaillées"
-    icon: "tf-ion-filing"
+    icon: "fas fa-database"
     content: "Les lieux ont tellement d'informations que vous les connaîssez déjà avant d'y être allé"
   - title: "Recherche performante"
-    icon: "tf-ion-android-search"
+    icon: "fas fa-search-location"
     content: "Filtrez facilement les lieux pour afficher seulement ce qui compte"
   - title: "Belle carte"
-    icon: "tf-ion-android-map"
+    icon: "fas fa-map"
     content: "La carte est épurée, et affiche la bonne quantité d'informations"
   - title: "Plusieurs langues"
-    icon: "tf-ion-ios-world"
+    icon: "fas fa-language"
     content: "L'application est disponible en français, en anglais, et bientôt dans d'autres langues!"
 
   # feature at the right of the image
   right_side:
   - title: "Migration facile"
-    icon: "tf-ion-arrow-down-a"
+    icon: "fas fa-suitcase"
     content: "On a mis en place un outil de migration simplifiée pour vous permettre d'importer facilement tous les lieux que vous aviez déjà enregistrés auparavant."
   - title: "Fonctionne hors-ligne"
-    icon: "tf-ion-connection-bars"
+    icon: "fas fa-signal"
     content: "L'application a été pensée avec l'utilisation hors-ligne au cœur de sa structure"
   - title: "Pas chère"
-    icon: "tf-ion-ios-cart"
+    icon: "fas fa-money-bill-wave"
     content: "Elle est gratuite 🙂"
   - title: "Mode sombre"
-    icon: "tf-ion-ios-sunny"
+    icon: "fas fa-moon"
     content: "L'application est magnifique en mode sombre 😍"
 ---
 

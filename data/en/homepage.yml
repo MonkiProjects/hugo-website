@@ -23,13 +23,13 @@ features:
   # On the left of the image
   left_side:
   - title: "Privacy"
-    icon: "tf-ion-locked"
+    icon: "fas fa-user-shield"
     content: "We will always do the best we can in order to keep your data private. We keep everything on your devices unless we really need to — and we tell you before sending it across the internet."
 
   # On the right of the image
   right_side:
   - title: "Collaboration"
-    icon: "tf-ion-android-people"
+    icon: "fas fa-users"
     content: "We strongly beleive in collaboration. For this reason, we share a big part of our code and infrastucture on GitHub, and we try to write as many transparent posts as possible. Anyone can collaborate, no matter who they are, from everywhere across the globe."
 
 

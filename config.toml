@@ -35,6 +35,8 @@ link = "plugins/jquery/jquery.js"
 link = "plugins/bootstrap/bootstrap.min.js"
 [[params.plugins.js]]
 link = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+link = "https://kit.fontawesome.com/904a334a59.js"
 
 
 ###################################### Navigation ######################################

@@ -23,13 +23,13 @@ features:
   # À gauche de l'image
   left_side:
   - title: "Vie privée"
-    icon: "tf-ion-locked"
+    icon: "fas fa-user-shield"
     content: "On fera toujours de notre mieux pour garder vos informations privées. On garde tout sur vos appareils, sauf si on en a vraiment besoin — et on vous demande avant d'envoyer vos informations à travers internet."
 
   # À droite de l'image
   right_side:
   - title: "Collaboration"
-    icon: "tf-ion-android-people"
+    icon: "fas fa-users"
     content: "On croit fortement en la collaboration. Pour cette raison, on partage une grande partie de notre code et de notre infrastructure sur GitHub, et on essaie d'écrire le plus d'articles transparents que possible. N'importe qui peut collaborer, peu importe qui c'est, depuis n'importe où sur le globe."
 
 
