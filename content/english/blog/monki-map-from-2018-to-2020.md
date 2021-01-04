@@ -42,7 +42,7 @@ I immediately made an appointment with my tutor, and explained the situation. Sh
 
 > If you can learn something, practice, broaden your network… always do it! It can only be worth it.
 
-I started the following week, in a hurry, and we went on courses and workshops almost every day. We were about 20 passionates. Every *homework* we had was always related to our own projects. We had two big things to prepare: the "Mid Term Review" – a 10-minutes pitch in front of a jury experienced in entrepreneurship – and the "demo day" – a big event where every student entrepreneur would pitch their project in front of a crowd. Due to the pandemic, the demo day was transformed in a video we had to record. In addition, I had to prepare graduation oral exam. I took this opportunity to work 40-50 hours a week. I made a lot of progress on my app, and wrote [pitches](https://en.wikipedia.org/wiki/Elevator_pitch) I'm really proud of.
+I started the following week, in a hurry, and we went on courses and workshops almost every day. We were about 20 passionates. Every *homework* we had was always related to our own projects. We had two big things to prepare: the "Mid Term Review" – a 10-minutes [pitch](https://en.wikipedia.org/wiki/Elevator_pitch) in front of a jury experienced in entrepreneurship – and the "demo day" – a big event where every student entrepreneur would pitch their project in front of a crowd. Due to the pandemic, the demo day was transformed in a video we had to record. In addition, I had to prepare my graduation oral exam. I took this opportunity to work 40-50 hours a week. I made a lot of progress on my app, and wrote pitches I'm really proud of.
 
 ## Step 4: Get the word out
 
