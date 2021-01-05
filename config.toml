@@ -22,10 +22,6 @@ disableLanguages = []
 [[params.plugins.css]]
 link = "https://fonts.googleapis.com/css?family=Droid+Serif:400|Josefin+Sans:300,400,600,700"
 [[params.plugins.css]]
-link = "plugins/bootstrap/bootstrap.min.css"
-[[params.plugins.css]]
-link = "plugins/themefisher-font/themefisher-font.min.css"
-[[params.plugins.css]]
 link = "plugins/slick/slick.min.css"
 
 # JS Plugins
@@ -63,31 +59,31 @@ weight = 3
 #url = "testimonial"
 #weight = 4
 
-[[menu.main]]
-name = "Contact"
-url = "contact"
-weight = 5
-
 # footer menu
 [[menu.footer]]
-name = "Blog"
-url = "blog"
+name = "Apps"
+url = "apps"
 weight = 1
 
 [[menu.footer]]
+name = "Blog"
+url = "blog"
+weight = 2
+
+[[menu.footer]]
 name = "Contact"
 url = "contact"
-weight = 2
+weight = 3
 
 [[menu.footer]]
 name = "Terms & Conditions"
 url = "terms-conditions"
-weight = 3
+weight = 99
 
 [[menu.footer]]
 name = "Privacy Policy"
 url = "privacy-policy"
-weight = 4
+weight = 100
 
 
 ########################### Default parameters ##########################
@@ -111,7 +107,7 @@ help = "Help"
 
 ################################### English language #####################################
 [languages.en]
-languageName = "English"
+languageName = "En 🇺🇸"
 languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
@@ -122,7 +118,7 @@ copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By 
 
 ################################### French language #####################################
 [languages.fr]
-languageName = "Français"
+languageName = "Fr 🇫🇷"
 languageCode = "fr-fr"
 contentDir = "content/french"
 weight = 2
@@ -158,11 +154,6 @@ weight = 3
 #pre = "#"
 #url = "testimonial"
 #weight = 4
-
-[[languages.fr.menu.main]]
-name = "Contact"
-url = "contact"
-weight = 5
 
 # footer menu
 [[languages.fr.menu.footer]]
