@@ -38,7 +38,7 @@ about_app:
   enable: true
   title: "Different apps, different tasks"
   items:
-    - image: "images/iPhoneX.svg"
+    - image: "images/showcase/monki-map.png"
       title: "Find the best spots, right next to you."
       content: "With Monki Map, you will easily find the best places to train. And if you want to train with others, chances are you’ll get this too."
       button:

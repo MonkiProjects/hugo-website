@@ -38,7 +38,7 @@ about_app:
   enable: true
   title: "Différentes applications, différentes fonctionnalités"
   items:
-    - image: "images/iPhoneX.svg"
+    - image: "images/showcase/monki-map.png"
       title: "Trouvez les meilleurs spots, juste à côté de vous."
       content: "Avec Monki Map, vous trouverez facilement les meilleurs endroits pour vous entraîner. Et si vous voulez vous entraîner avec d'autres, vous le trouverez aussi."
       button:
