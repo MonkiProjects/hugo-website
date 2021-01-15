@@ -1,25 +1,5 @@
-- id: view_in_app_store
-  translation: Voir dans l'App Store
-
-- id: send
-  translation: Envoyer
-
-- id: subscribe
-  translation: S'inscrire
-
-- id: read_more
-  translation: Lire la suite
-
-- id: more_details
-  translation: Voir les détails
-
-- id: written_by
-  translation: "Écrit par"
-
-- id: reading_time
-  one: "{{ .Count }} minute de lecture"
-  other: "{{ .Count }} minutes de lecture"
-
-- id: word_count
-  one: "{{ .WordCount }} mot"
-  other: "{{ .WordCount }} mots"
+view_in_app_store: Voir dans l'App Store
+send: Envoyer
+subscribe: S'inscrire
+read_more: Lire la suite
+more_details: Voir les détails

@@ -1,14 +1,5 @@
-- id: view_in_app_store
-  translation: View in the App Store
-
-- id: send
-  translation: Send Now
-
-- id: subscribe
-  translation: Subscribe
-
-- id: read_more
-  translation: Read More
-
-- id: more_details
-  translation: More details
+view_in_app_store: View in the App Store
+send: Send Now
+subscribe: Subscribe
+read_more: Read More
+more_details: More details
