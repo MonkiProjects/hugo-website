@@ -4,9 +4,11 @@ date: 2021-01-04T19:07:00+01:00
 image: uploads/articles/french/monki-map-de-2018-a-2020.jpg
 description: Dans cet article, on vous explique comment Monki Map a commencé, et comment on en est arrivé là. On vous dit aussi les bons et mauvais moments que l'on a dû traverser.
 draft: false
+# Localization
+type: blog
 translationKey: blog/monki-map-from-2018-to-2020
 
-author: Rémi Bardon
+author: remi-bardon
 ---
 
 Quand j'ai commencé le parkour, vers 2017, j'ai eu baucoup de mal à trouver de bons lieux d'entraînement dans ma petite ville aux murs qui s'effritent. Mon premier réflexe a été de chercher sur internet si je pouvais trouver une carte ou une communauté aux alentours qui pourrait m'aider. Malheureusement, dans ce lieu perdu en France, je n'ai rien trouvé. Ensuite, je suis allé chercher dans [l'App Store](https://www.apple.com/fr/app-store/), et après avoir testé les quelques applications existantes, je n'ai rien trouvé d'assez bien pour mes attentes.

@@ -5,7 +5,7 @@ image: uploads/articles/english/our-code-is-mainly-open-source.jpg
 description: Apart from the code of our apps and APIs, we share everything publicly on our GitHub account.
 draft: false
 
-author: Rémi Bardon
+author: remi-bardon
 ---
 
 > This article is aimed at developers. You can try to read it if you're not a developer, but we don't promise that you will understand 🙃

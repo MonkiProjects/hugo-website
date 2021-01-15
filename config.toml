@@ -53,8 +53,13 @@ name = "Blog"
 url = "blog"
 weight = 3
 
+[[menu.main]]
+name = "Team"
+url = "team"
+weight = 3
+
 #[[menu.main]]
-#name = "Review"
+#name = "Reviews"
 #pre = "#"
 #url = "testimonial"
 #weight = 4
@@ -71,9 +76,14 @@ url = "blog"
 weight = 2
 
 [[menu.footer]]
+name = "Team"
+url = "team"
+weight = 3
+
+[[menu.footer]]
 name = "Contact"
 url = "contact"
-weight = 3
+weight = 4
 
 [[menu.footer]]
 name = "Terms & Conditions"
@@ -92,13 +102,13 @@ logo = "images/icon/Logo-Horizontal.png"
 logo_width = "256px"
 # Meta data
 description = "Making apps and tools for the parkour — an urban sport — community."
-author = "Themefisher"
+author = "Monki Projects"
 # contact form action
-contact_form_action = "#" # contact form works with https://formspree.io
+#contact_form_action = "#" # contact form works with https://formspree.io
 
 # Preloader
 [params.preloader]
-enable = true
+enable = false
 preloader = "" # use .png , .svg or .gif format
 
 [params.navigation]
@@ -149,11 +159,16 @@ name = "Blog"
 url = "blog"
 weight = 3
 
+[[languages.fr.menu.main]]
+name = "Équipe"
+url = "equipe"
+weight = 4
+
 #[[languages.fr.menu.main]]
 #name = "Témoignages"
 #pre = "#"
 #url = "testimonial"
-#weight = 4
+#weight = 5
 
 # footer menu
 [[languages.fr.menu.footer]]
@@ -167,9 +182,14 @@ url = "blog"
 weight = 2
 
 [[languages.fr.menu.footer]]
+name = "Équipe"
+url = "equipe"
+weight = 3
+
+[[languages.fr.menu.footer]]
 name = "Contact"
 url = "contact"
-weight = 3
+weight = 4
 
 [[languages.fr.menu.footer]]
 name = "Termes & Conditions"

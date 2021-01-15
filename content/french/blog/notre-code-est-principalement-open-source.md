@@ -4,9 +4,11 @@ date: 2020-12-25T22:20:34+01:00
 image: uploads/articles/french/notre-code-est-principalement-open-source.jpg
 description: Hormis le code de nos applications et de nos APIs, on partage tout publiquement sur notre compte GitHub.
 draft: false
+# Localization
+type: blog
 translationKey: blog/our-code-is-mainly-open-source
 
-author: Rémi Bardon
+author: remi-bardon
 ---
 
 > Cet article est destiné à des développeurs. Vous pouvez essayer de le lire sans l'être, mais on ne vous promet pas que vous comprendrez 🙃

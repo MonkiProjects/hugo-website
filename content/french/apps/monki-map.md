@@ -1,27 +1,27 @@
 ---
-title: "Monki Map"
+title: Monki Map
+description: L'application Monki Map de Monki Projects
 date: 2020-12-25T17:35:16+01:00
 images:
-  - "images/showcase/monki-map.png"
-  - "images/showcase/spot-creation.png"
-  - "images/showcase/map-filtering.png"
-  - "images/showcase/spot-list-filtering.png"
-  - "images/showcase/dark-mode.png"
-
-# meta description
-description: "L'application Monki Map de Monki Projects"
-
+  - images/showcase/monki-map.png
+  - images/showcase/spot-creation.png
+  - images/showcase/map-filtering.png
+  - images/showcase/spot-list-filtering.png
+  - images/showcase/dark-mode.png
+# Localization
+type: apps
 draft: false
 
 
 ############################# Promo ############################
 promo:
   enable: true
-  image: "images/testflight-128x128_2x.png"
-  title: "Bêta privée iOS"
-  content: "Monki Map est finalement disponible sur TestFlight pour une bêta privée!<br/>
-            On travaille dur pour faire de cette application l'application la plus utile pour la communauté. On compte sur vous pour faire des retours, faire des suggestions et signaler les bugs que vous trouvez.<br/>
-            Pour l'instant on se concentre sur des personnes expérimentés, mais bientôt on ouvrira la bêta pour vous tous 😀"
+  image: images/testflight-128x128_2x.png
+  title: Bêta privée iOS
+  content:
+    Monki Map est finalement disponible sur TestFlight pour une bêta privée!
+    On travaille dur pour faire de cette application l'application la plus utile pour la communauté. On compte sur vous pour faire des retours, faire des suggestions et signaler les bugs que vous trouvez.
+    Pour l'instant on se concentre sur des personnes expérimentés, mais bientôt on ouvrira la bêta pour vous tous 😀
 
 
 ############################# Features ############################

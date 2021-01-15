@@ -5,7 +5,7 @@ image: uploads/articles/english/help-us-categorize-parkour-spots.jpg
 description: We don't know all the spots in the world (yet), so we created a collaborative spreadsheet to categorize spot and their general informations.
 draft: false
 
-author: Rémi Bardon
+author: remi-bardon
 ---
 
 One of the key features of Monki Map is its advanced search and filtering. To make it work, we need to add meaningful data to each spot, and "categorize it". Being a practitioner, I already know some things which make a spot better than another, or why I would tain at a spot and not another at a particular time. But I don't know every spot, and I don't want the data to be biased, so I'd like you to share your thoughts on my actual categorization.
