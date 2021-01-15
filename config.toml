@@ -123,7 +123,11 @@ contentDir = "content/english"
 weight = 1
 
 # Language overrides
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = """
+Made with ❤️ in France.
+
+Original theme by [Themefisher](https://themefisher.com/).
+"""
 
 
 ################################### French language #####################################
@@ -135,7 +139,11 @@ weight = 2
 
 # Language overrides
 title = "Accueil | Monki Projects"
-copyright = "Conçu par [Themefisher](https://themefisher.com/) & Développé par [Gethugothemes](https://gethugothemes.com/)"
+copyright = """
+Fait avec ❤️ en France.
+
+Conçu par [Themefisher](https://themefisher.com/).
+"""
 
 [languages.fr.params]
 description = "Des applications et des outils pour la communauté du parkour – un sport urbain."
