@@ -124,9 +124,9 @@ weight = 1
 
 # Language overrides
 copyright = """
-Made with ❤️ in France.
+Made with ❤️ in France & Proudly hosted on [Clever Cloud](https://clever-cloud.com)
 
-Original theme by [Themefisher](https://themefisher.com/).
+Copyright &copy; 2020 Monki Projects. Original theme by [Themefisher](https://themefisher.com/).
 """
 
 
@@ -140,9 +140,9 @@ weight = 2
 # Language overrides
 title = "Accueil | Monki Projects"
 copyright = """
-Fait avec ❤️ en France.
+Fait avec ❤️ en France & Fièrement hébergé chez [Clever Cloud](https://clever-cloud.com).
 
-Conçu par [Themefisher](https://themefisher.com/).
+Copyright &copy; 2020 Monki Projects. Thème original par [Themefisher](https://themefisher.com/).
 """
 
 [languages.fr.params]
