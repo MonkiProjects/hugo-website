@@ -33,6 +33,20 @@ Monki Projects [APIs](https://en.wikipedia.org/wiki/API) are, for the most part,
 
 > The Swift client generator is still in development, so its output is not as good as we'd like it to be (see [OpenAPITools/openapi-generator#8901](https://github.com/OpenAPITools/openapi-generator/issues/8901)), but we'll use it for now to save time, and will contribute later if needed.
 
+## Website
+
+It's still a work in progress, but I've spent several hours working on two big improvements for this website:
+
+1. **Dark mode 😍🌚**
+
+   Everytime I go to our website at night, it burns my eyes 😵 As a developer, I know how important a dark mode is, and I've tried different techniques to set it up here. To avoid FOIT – Flash Of Incorrect Theme – (see [CSS-Tricks' Complete Guide to Dark Mode on the Web](https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web/#storing-preferences)), I decided to go for the pure [CSS](https://en.wikipedia.org/wiki/CSS) at [Operating System level](https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web/#os-level) version. Unfortunately, we're using [Bootstrap](https://getbootstrap.com), which doesn't support Dark Mode. After a lot of tries with Bootstrap, and after trying alternatives such as [Halfmoon](https://css-tricks.com/halfmoon-a-bootstrap-alternative-with-dark-mode-built-in/), I haven't been able to have a good balance of simplicity and dark mode support.
+
+   Since we're still very busy developing our core business logic, I decided to stick with Bootstrap, to avoid rewriting a whole CSS theme for the website, but using [SCSS](https://en.wikipedia.org/wiki/Sass_(stylesheet_language)) variables overrides to handle dark mode. I've had problems, but it's on its way.
+
+2. **Tags 🏷**
+
+   We don't have a lot of articles for now, but it still needs tags to organize subjects. [Hugo](https://gohugo.io) provides very useful tools for tag organization, so it wasn't very difficult. It's almost done, but I'll ship it with the Dark Mode support.
+
 ## Reusable SwiftUI views
 
 We're developping an app, on iOS for now *(don't worry, Android will come shortly after, that's why I spend so much effort in separating and specifying everything)*, but there will be a macOS and iPadOS app too. Therefore, we need reusable views to make development faster and to have a great app identity. It will also facilitate code maintenance, readability, and will allow everyone to use Monki Map views (and all of Monki Projects' ones by extension) in their projects.
