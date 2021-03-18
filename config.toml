@@ -1,4 +1,6 @@
 ################################### Default Configuration ############################
+# See https://gohugo.io/getting-started/configuration/#all-configuration-settings
+
 baseurl = "https://monkiprojects.com/"
 title = "Home | Monki Projects"
 theme = "vex-hugo"
@@ -8,6 +10,9 @@ summarylength = "20"
 # unsafe html
 [markup.goldmark.renderer]
 unsafe = true
+
+# Update git commit dates
+enableGitInfo = true
 
 
 #################################### Multilingual Mode ##########################################
