@@ -1,11 +1,19 @@
 ---
 title: L'histoire de Monki Map, de 2018 à 2020
+linktitle: L'histoire de Monki Map, de 2018 à 2020 | Blog Monki Projects
 date: 2021-01-04T19:07:00+01:00
-image: uploads/articles/french/monki-map-de-2018-a-2020.jpg
+lastmod: 2021-03-30T23:03:22.899+02:00
+images:
+  - uploads/articles/french/monki-map-de-2018-a-2020-light.jpg
+cover:
+  light: uploads/articles/french/monki-map-de-2018-a-2020-light.jpg
+  dark: uploads/articles/french/monki-map-de-2018-a-2020-dark.jpg
 description: Dans cet article, on vous explique comment Monki Map a commencé, et comment on en est arrivé là. On vous dit aussi les bons et mauvais moments que l'on a dû traverser.
+summary: Dans cet article, on vous explique comment Monki Map a commencé, et comment on en est arrivé là. On vous dit aussi les bons et mauvais moments que l'on a dû traverser.
 draft: false
-# Localization
 type: blog
+
+# Localization
 translationKey: blog/monki-map-from-2018-to-2020
 
 author: remi-bardon

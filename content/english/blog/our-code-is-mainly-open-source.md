@@ -1,9 +1,21 @@
 ---
 title: A big part of our code and infrastructure is open-source, feel free to contribute!
+linktitle: A big part of our code and infrastructure is open-source, feel free to contribute! | Monki Projects Blog
 date: 2020-12-25T22:20:34+01:00
-image: uploads/articles/english/our-code-is-mainly-open-source.jpg
-description: Apart from the code of our apps and APIs, we share everything publicly on our GitHub account.
+lastmod: 2021-03-30T22:43:30.586+02:00
+images:
+  - uploads/articles/english/our-code-is-mainly-open-source-light.jpg
+cover:
+  light: uploads/articles/english/our-code-is-mainly-open-source-light.jpg
+  dark: uploads/articles/english/our-code-is-mainly-open-source-dark.jpg
+description: Did you know we share almost everything publicly on our GitHub account? In this article, we explain you what's happening there.
+summary: Did you know we share almost everything publicly on our GitHub account? In this article, we explain you what's happening there.
 draft: false
+# categories:
+#   - news
+# tags:
+#   - dev
+#   - api
 
 author: remi-bardon
 ---
@@ -34,8 +46,3 @@ If you see a typo or just want to contribute, feel free to [open an issue](https
 Since our APIs are well documented, you can use them to develop personal projects and contribute to our collaborative database. However, you must [reach out to us](/contact) before publishing any piece of software using our APIs on the market. We would love to see your people use your work, but we want to chat with you first 😉
 
 For now, we're working on an iOS version of [Monki Map](/apps/monki-map), so if you're a skilled developer on another platform (mobile or desktop) and you want to help us, please [contact us](/contact).
-
-## Author
-
-**Rémi Bardon**  
-Founder of Monki Projects, main (and only) developer

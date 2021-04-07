@@ -1,11 +1,19 @@
 ---
-title: Vous pouvez nous aider à categoriser les spots de parkour, ça vous tente ?
+title: Vous pouvez nous aider à catégoriser les spots de parkour, ça vous tente ?
+linktitle: Vous pouvez nous aider à catégoriser les spots de parkour, ça vous tente ? | Blog Monki Projects
 date: 2021-01-06T23:45:00+01:00
-image: uploads/articles/french/aidez-nous-a-categoriser-les-spots-de-parkour.jpg
+lastmod: 2021-03-30T23:02:29.336+02:00
+images:
+  - uploads/articles/french/aidez-nous-a-categoriser-les-spots-de-parkour-light.jpg
+cover:
+  light: uploads/articles/french/aidez-nous-a-categoriser-les-spots-de-parkour-light.jpg
+  dark: uploads/articles/french/aidez-nous-a-categoriser-les-spots-de-parkour-dark.jpg
 description: On en connaît pas (encore) tous les spots du monde. On a donc créé un tableur collaboratif pour les catégoriser et en lister les informations importantes.
+summary: On en connaît pas (encore) tous les spots du monde. On a donc créé un tableur collaboratif pour les catégoriser et en lister les informations importantes.
 draft: false
-# Localization
 type: blog
+
+# Localization
 translationKey: blog/help-us-categorize-parkour-spots
 
 author: remi-bardon

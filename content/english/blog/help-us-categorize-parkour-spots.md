@@ -1,9 +1,23 @@
 ---
 title: You can easily help us categorize parkour spots, wanna help?
+linktitle: You can easily help us categorize parkour spots, wanna help? | Monki Projects Blog
 date: 2021-01-06T23:30:00+01:00
-image: uploads/articles/english/help-us-categorize-parkour-spots.jpg
-description: We don't know all the spots in the world (yet), so we created a collaborative spreadsheet to categorize spot and their general informations.
+lastmod: 2021-03-30T22:44:24.543+02:00
+images:
+  - uploads/articles/english/help-us-categorize-parkour-spots-light.jpg
+cover:
+  light: uploads/articles/english/help-us-categorize-parkour-spots-light.jpg
+  dark: uploads/articles/english/help-us-categorize-parkour-spots-dark.jpg
+description: We don't know all the spots in the world (yet), so we created a collaborative spreadsheet to categorize spot and their general informations. This article explains how to contribute.
+summary: We don't know all the spots in the world (yet), so we created a collaborative spreadsheet to categorize spot and their general informations. This article explains how to contribute.
 draft: false
+# categories:
+#   - contribution
+# tags:
+#   - parkour
+#   - spots
+#   - monki-map
+#   - categorization
 
 author: remi-bardon
 ---
