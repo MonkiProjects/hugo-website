@@ -1,4 +1,3 @@
-[submodule "themes/vex-hugo"]
-	path = themes/vex-hugo
-	url = https://github.com/MonkiProjects/vex-hugo
-	branch = master
+[submodule "themes/chimp-hugo"]
+	path = themes/chimp-hugo
+	url = https://github.com/MonkiProjects/chimp-hugo
