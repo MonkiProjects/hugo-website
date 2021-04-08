@@ -275,7 +275,7 @@ I never liked the team members list. I just applied a few design rules, and now 
 
 The team member page… nothing to say here, it was just ugly.
 
-I redesigned it, and added the list of posts published by the author when appropriate, because it made a lot of sense 🤷.
+I redesigned it, and added the list of posts published by the author when appropriate, because it made a lot of sense 🤷. See how the cards don't show the author… since we already know who the author is.
 
 {{< figure src="/uploads/articles/english/our-new-website-with-dark-mode/team-member-old.png" title="A member page with the old layout (only in light theme)" >}}
 <div class="sm:grid grid-cols-2 gap-4">

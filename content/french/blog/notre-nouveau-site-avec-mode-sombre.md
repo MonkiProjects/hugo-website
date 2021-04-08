@@ -275,7 +275,7 @@ Je n'ai jamais aimé la liste des membres de l'équipe. J'ai juste appliqué que
 
 La page d'un(e) membre de l'équipe… rien à dire, elle était juste moche.
 
-Je l'ai refaite, et j'ai ajouté la liste des billets de blog publiés par l'auteur(trice) le cas échéant, car ça a beaucoup de sens 🤷
+Je l'ai refaite, et j'ai ajouté la liste des billets de blog publiés par l'auteur(trice) le cas échéant, car ça a beaucoup de sens 🤷 Notez le fait que les cartes n'affichent pas le nom de l'auteur… puisqu'on sait déjà qui c'est.
 
 {{< figure src="/uploads/articles/english/our-new-website-with-dark-mode/team-member-old.png" title="La page d'un membre de l'équipe avec l'ancienne mise en page (mode clair seulement)" >}}
 <div class="sm:grid grid-cols-2 gap-4">
