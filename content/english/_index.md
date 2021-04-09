@@ -40,7 +40,7 @@ features:
   - title: Collaboration
     icon: fas fa-users
     content: >-
-      We strongly beleive in collaboration. For this reason, we share a big part
+      We strongly believe in collaboration. For this reason, we share a big part
       of our code and infrastucture on [GitHub](https://github.com/MonkiProjects),
       and we try to write as many transparent posts as possible.
       Anyone can collaborate, no matter who they are, from everywhere across the globe.
