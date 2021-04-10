@@ -2,12 +2,12 @@
 title: Une grande partie de notre code et de notre infrastructure est *open-source*, n'hésitez pas à contribuer!
 linktitle: Une grande partie de notre code et de notre infrastructure est *open-source*, n'hésitez pas à contribuer! | Blog Monki Projects
 date: 2020-12-25T22:20:34+01:00
-lastmod: 2021-03-30T23:05:12.982+02:00
+lastmod: 2021-04-09T21:16:24.427+02:00
 images:
-  - uploads/articles/french/notre-code-est-principalement-open-source-light.jpg
+  - https://res.cloudinary.com/monki-projects/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1617994923/website/fr/uploads/articles/notre-code-est-principalement-open-source/cover-light
 cover:
-  light: uploads/articles/french/notre-code-est-principalement-open-source-light.jpg
-  dark: uploads/articles/french/notre-code-est-principalement-open-source-dark.jpg
+  light: https://res.cloudinary.com/monki-projects/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1617994923/website/fr/uploads/articles/notre-code-est-principalement-open-source/cover-light
+  dark: https://res.cloudinary.com/monki-projects/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1617994923/website/fr/uploads/articles/notre-code-est-principalement-open-source/cover-dark
 description: Hormis le code de nos applications et de nos APIs, on partage tout publiquement sur notre compte GitHub.
 summary: Saviez-vous que l'on partage quasiment tout publiquement saur notre compte GitHub ? Dans cet article, on vous explique tout ce qu'il s'y passe.
 draft: false

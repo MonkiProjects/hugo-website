@@ -2,13 +2,13 @@
 title: Monki Map
 description: Monki Map app from Monki Projects
 date: 2020-12-25T17:35:16+01:00
-lastmod: 2021-04-02T23:48:39.658+02:00
+lastmod: 2021-04-10T13:25:45.531+02:00
 images:
-  - images/showcase/monki-map-no-border.png
-  - images/showcase/spot-creation-no-border.png
-  - images/showcase/map-filtering-no-border.png
-  - images/showcase/spot-list-filtering-no-border.png
-  - images/showcase/dark-mode-no-border.png
+  - https://res.cloudinary.com/monki-projects/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1617990030/website/fr/apps/monki-map/monki-map-no-border
+  - https://res.cloudinary.com/monki-projects/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1617990032/website/fr/apps/monki-map/spot-creation-no-border
+  - https://res.cloudinary.com/monki-projects/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1617990032/website/fr/apps/monki-map/map-filtering-no-border
+  - https://res.cloudinary.com/monki-projects/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1617990032/website/fr/apps/monki-map/spot-list-filtering-no-border
+  - https://res.cloudinary.com/monki-projects/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1617990031/website/fr/apps/monki-map/dark-mode-no-border
 draft: false
 
 
@@ -33,7 +33,7 @@ hero:
 features:
   enable: true
   title: Main features
-  image: images/showcase/monki-map-no-border.png
+  image: https://res.cloudinary.com/monki-projects/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1617990030/website/fr/apps/monki-map/monki-map-no-border
 
   # Features on the left of the image
   left_side:
@@ -69,7 +69,7 @@ features:
 ############################# Promo ############################
 promo:
   enable: true
-  image: images/testflight-128x128_2x.png
+  image: https://res.cloudinary.com/monki-projects/image/upload/f_auto,w_128,h_128/v1618053899/website/_default/misc/test-flight
   title: Private iOS beta
   content: >-
     Monki Map is finally available on TestFlight for a private beta!
@@ -81,7 +81,7 @@ promo:
 
 ############################# Details ############################
 details:
-  - image: images/showcase/monki-map-no-border.png
+  - image: https://res.cloudinary.com/monki-projects/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1617990030/website/fr/apps/monki-map/monki-map-no-border
     content: >-
       ### A map, no clutter
 
@@ -90,7 +90,7 @@ details:
       ### Satellite view in one tap
 
       We know how it works to find a spot for training… and it very often involves a satellite view 🗺 In one tap, you can switch between a clean view and one with every little details you could see from the sky.
-  - image: images/showcase/spot-creation-no-border.png
+  - image: https://res.cloudinary.com/monki-projects/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1617990032/website/fr/apps/monki-map/spot-creation-no-border
     content: >-
       ### Fast spot creation
 
@@ -99,7 +99,7 @@ details:
       ### Even faster… don't finish creating the spot!
 
       Sometimes you just don't have time to write a name, and we got your back 😉 At the exact moment you create a spot, it's saved – no need to worry about loosing it. You can then find it in your drafts and add more details later.
-  - image: images/showcase/map-filtering-no-border.png
+  - image: https://res.cloudinary.com/monki-projects/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1617990032/website/fr/apps/monki-map/map-filtering-no-border
     content: >-
       ### Even less clutter with filtering
 
@@ -108,12 +108,12 @@ details:
       ### Show only what matters to **you**
 
       What if you wanted to see only the spots in your city where you could train your "kong-precision" even when walls are wet? Well, it would take 3 filters, and a very intuitive search bar.
-  - image: images/showcase/spot-list-filtering-no-border.png
+  - image: https://res.cloudinary.com/monki-projects/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1617990032/website/fr/apps/monki-map/spot-list-filtering-no-border
     content: >-
       ### A handy search bar
 
       As you start filtering places, we remove the filters that doesn't make sense anymore, to leave only what you need.
-  - image: images/showcase/dark-mode-no-border.png
+  - image: https://res.cloudinary.com/monki-projects/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1617990031/website/fr/apps/monki-map/dark-mode-no-border
     content: >-
       ### A beautiful dark mode
 

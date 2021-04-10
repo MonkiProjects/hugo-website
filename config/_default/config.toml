@@ -182,27 +182,27 @@ author = "Monki Projects"
 
 # Icon – Icon Only
 [params.logo.icon_only.normal]
-on_light = "images/icon/Monki-Projects-Logo-Dark-On-Light.png"
-on_dark = "images/icon/Monki-Projects-Logo-Light-On-Dark.png"
+on_light = "https://res.cloudinary.com/monki-projects/image/upload/f_auto,w_auto/v1618051692/logo/monki-projects/Monki-Projects-Logo-Dark-On-Light"
+on_dark = "https://res.cloudinary.com/monki-projects/image/upload/f_auto,w_auto/v1618051692/logo/monki-projects/Monki-Projects-Logo-Light-On-Dark"
 [params.logo.icon_only.colored]
-on_light = "images/icon/Monki-Projects-Logo-Colored-On-Light.png"
-on_dark = "images/icon/Monki-Projects-Logo-Colored-On-Dark.png"
+on_light = "https://res.cloudinary.com/monki-projects/image/upload/f_auto,w_auto/v1618051692/logo/monki-projects/Monki-Projects-Logo-Colored-On-Light"
+on_dark = "https://res.cloudinary.com/monki-projects/image/upload/f_auto,w_auto/v1618051692/logo/monki-projects/Monki-Projects-Logo-Colored-On-Dark"
 
 # Icon – Vertical
 [params.logo.vertical.normal]
-on_light = "images/icon/Monki-Projects-Logo-Vertical-Dark-On-Light.png"
-on_dark = "images/icon/Monki-Projects-Logo-Vertical-Light-On-Dark.png"
+on_light = "https://res.cloudinary.com/monki-projects/image/upload/f_auto,w_auto/v1618051692/logo/monki-projects/Monki-Projects-Logo-Vertical-Dark-On-Light"
+on_dark = "https://res.cloudinary.com/monki-projects/image/upload/f_auto,w_auto/v1618051692/logo/monki-projects/Monki-Projects-Logo-Vertical-Light-On-Dark"
 [params.logo.vertical.colored]
-on_light = "images/icon/Monki-Projects-Logo-Vertical-Colored-On-Light.png"
-on_dark = "images/icon/Monki-Projects-Logo-Vertical-Colored-On-Dark.png"
+on_light = "https://res.cloudinary.com/monki-projects/image/upload/f_auto,w_auto/v1618051692/logo/monki-projects/Monki-Projects-Logo-Vertical-Colored-On-Light"
+on_dark = "https://res.cloudinary.com/monki-projects/image/upload/f_auto,w_auto/v1618051692/logo/monki-projects/Monki-Projects-Logo-Vertical-Colored-On-Dark"
 
 # Icon – Horizontal
 [params.logo.horizontal.normal]
-on_light = "images/icon/Monki-Projects-Logo-Horizontal-Dark-On-Light.png"
-on_dark = "images/icon/Monki-Projects-Logo-Horizontal-Light-On-Dark.png"
+on_light = "https://res.cloudinary.com/monki-projects/image/upload/f_auto,w_auto/v1618051692/logo/monki-projects/Monki-Projects-Logo-Horizontal-Dark-On-Light"
+on_dark = "https://res.cloudinary.com/monki-projects/image/upload/f_auto,w_auto/v1618051692/logo/monki-projects/Monki-Projects-Logo-Horizontal-Light-On-Dark"
 [params.logo.horizontal.colored]
-on_light = "images/icon/Monki-Projects-Logo-Horizontal-Colored-On-Light.png"
-on_dark = "images/icon/Monki-Projects-Logo-Horizontal-Colored-On-Dark.png"
+on_light = "https://res.cloudinary.com/monki-projects/image/upload/f_auto,w_auto/v1618051692/logo/monki-projects/Monki-Projects-Logo-Horizontal-Colored-On-Light"
+on_dark = "https://res.cloudinary.com/monki-projects/image/upload/f_auto,w_auto/v1618051692/logo/monki-projects/Monki-Projects-Logo-Horizontal-Colored-On-Dark"
 
 
 ################################### English language #####################################

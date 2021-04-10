@@ -1,8 +1,10 @@
 ---
 title: Accueil
 linktitle: Accueil | Monki Projects
+date: 2020-12-25T12:00:00.000+01:00
+lastmod: 2021-04-10T12:49:22.259+02:00
 images:
-  - images/icon/Monki-Projects-Logo-Horizontal-Colored-On-Light.png
+  - https://res.cloudinary.com/monki-projects/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1618051692/logo/monki-projects/Monki-Projects-Logo-Horizontal-Colored-On-Dark
 
 ############################# Hero section ############################
 hero:
@@ -61,7 +63,7 @@ about_apps:
   enable: true
   title: Nos applications
   items:
-    - image: images/showcase/monki-map-no-border.png
+    - image: https://res.cloudinary.com/monki-projects/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1617990030/website/fr/apps/monki-map/monki-map-no-border
       alt: Capture d'écran de l'application Monki Map sur iOS.
       title: Trouvez les meilleurs spots, juste à côté de vous
       content: >-
@@ -76,7 +78,7 @@ about_apps:
 ################################## Abonnement ###################
 # subscription:
 #   enable: false
-#   bg_image: images/call-to-action.jpg
+#   bg_image: lorem/ipsum.jpg
 #   title: Get App Updates
 #   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 #   placeholder: Your Email Address Here

@@ -2,13 +2,13 @@
 title: Monki Map
 description: L'application Monki Map de Monki Projects
 date: 2020-12-25T17:35:16+01:00
-lastmod: 2021-04-02T00:35:04.685+02:00
+lastmod: 2021-04-10T13:25:45.531+02:00
 images:
-  - images/showcase/monki-map-no-border.png
-  - images/showcase/spot-creation-no-border.png
-  - images/showcase/map-filtering-no-border.png
-  - images/showcase/spot-list-filtering-no-border.png
-  - images/showcase/dark-mode-no-border.png
+  - https://res.cloudinary.com/monki-projects/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1617990030/website/fr/apps/monki-map/monki-map-no-border
+  - https://res.cloudinary.com/monki-projects/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1617990032/website/fr/apps/monki-map/spot-creation-no-border
+  - https://res.cloudinary.com/monki-projects/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1617990032/website/fr/apps/monki-map/map-filtering-no-border
+  - https://res.cloudinary.com/monki-projects/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1617990032/website/fr/apps/monki-map/spot-list-filtering-no-border
+  - https://res.cloudinary.com/monki-projects/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1617990031/website/fr/apps/monki-map/dark-mode-no-border
 draft: false
 type: apps
 
@@ -37,7 +37,7 @@ hero:
 features:
   enable: true
   title: Fonctionnalités principales
-  image: images/showcase/monki-map-no-border.png
+  image: https://res.cloudinary.com/monki-projects/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1617990030/website/fr/apps/monki-map/monki-map-no-border
 
   # Features on the left of the image
   left_side:
@@ -73,7 +73,7 @@ features:
 ############################# Promo ############################
 promo:
   enable: true
-  image: images/testflight-128x128_2x.png
+  image: https://res.cloudinary.com/monki-projects/image/upload/f_auto,w_128,h_128/v1618053899/website/_default/misc/test-flight
   title: Bêta privée iOS
   content: >-
     Monki Map est finalement disponible sur TestFlight pour une bêta privée!
@@ -85,7 +85,7 @@ promo:
 
 ############################# Details ############################
 details:
-  - image: images/showcase/monki-map-no-border.png
+  - image: https://res.cloudinary.com/monki-projects/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1617990030/website/fr/apps/monki-map/monki-map-no-border
     content: >-
       ### Une carte lisible
 
@@ -94,7 +94,7 @@ details:
       ### Vue satellite en une tape
 
       On sait comment c'est de chercher des *spots* pour s'entraîner… et souvent ça demande une vue satellite 🗺 En une tape, vous pouvez changer entre un affichage simple et une vue avec tous les petits détails que vous pourriez voir depuis le ciel.
-  - image: images/showcase/spot-creation-no-border.png
+  - image: https://res.cloudinary.com/monki-projects/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1617990032/website/fr/apps/monki-map/spot-creation-no-border
     content: >-
       ### Création de *spot* rapide
 
@@ -103,7 +103,7 @@ details:
       ### Encore plus rapide… ne finissez pas de créer les *spots* !
 
       Parfois on n'a juste pas le temps d'écrire un nom, eh bien on a la solution 😉 Au moment même où vous créez un *spot*, il est enregistré – plus besoin d'avoir peur de le perdre. Vous pouvez ensuite le retrouver dans vos brouillons et ajouter plus de détails plus tard.
-  - image: images/showcase/map-filtering-no-border.png
+  - image: https://res.cloudinary.com/monki-projects/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1617990032/website/fr/apps/monki-map/map-filtering-no-border
     content: >-
       ### Encore moins d'encombrement avec le filtrage
 
@@ -112,12 +112,12 @@ details:
       ### N'affichez que ce qui **vous** importe
 
       Et si vous vouliez juste voir les spots dans votre ville où vous pourriez entraîner votre "chat-précision" même quand les murs sont mouillés ? Eh bien ça demanderait seulement 3 filtres, et une barre de recherche très intuitive.
-  - image: images/showcase/spot-list-filtering-no-border.png
+  - image: https://res.cloudinary.com/monki-projects/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1617990032/website/fr/apps/monki-map/spot-list-filtering-no-border
     content: >-
       ### Une barre de recherche pratique
 
       À mesure que vous commencez à filtrer les lieux, on enlève les filtres qui ne font plus de sens, pour vous laisser seulement ce dont vous avez besoin.
-  - image: images/showcase/dark-mode-no-border.png
+  - image: https://res.cloudinary.com/monki-projects/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1617990031/website/fr/apps/monki-map/dark-mode-no-border
     content: >-
       ### Un beau mode sombre
 

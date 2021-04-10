@@ -2,12 +2,12 @@
 title: Development update – March 9, 2021
 title: Development update – March 9, 2021 | Monki Projects Blog
 date: 2021-03-09T10:08:00+01:00
-lastmod: 2021-03-30T22:45:07.555+02:00
+lastmod: 2021-04-09T21:19:47.989+02:00
 images:
-  - uploads/articles/english/dev-update-2021-03-09-light.jpg
+  - https://res.cloudinary.com/monki-projects/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1617994718/website/en/uploads/articles/dev-update-2021-03-09/cover-light
 cover:
-  light: uploads/articles/english/dev-update-2021-03-09-light.jpg
-  dark: uploads/articles/english/dev-update-2021-03-09-dark.jpg
+  light: https://res.cloudinary.com/monki-projects/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1617994718/website/en/uploads/articles/dev-update-2021-03-09/cover-light
+  dark: https://res.cloudinary.com/monki-projects/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1617994718/website/en/uploads/articles/dev-update-2021-03-09/cover-dark
 description: I've been working on a lot of different things these days, so here is a little recap on what I've done and what still needs more work. It's mainly infrastructure and automation, but I've also worked on the website.
 summary: I've been working on a lot of different things these days, so here is a little recap on what I've done and what still needs more work. It's mainly infrastructure and automation, but I've also worked on the website.
 draft: false

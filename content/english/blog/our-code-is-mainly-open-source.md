@@ -2,12 +2,12 @@
 title: A big part of our code and infrastructure is open-source, feel free to contribute!
 linktitle: A big part of our code and infrastructure is open-source, feel free to contribute! | Monki Projects Blog
 date: 2020-12-25T22:20:34+01:00
-lastmod: 2021-03-30T22:43:30.586+02:00
+lastmod: 2021-04-09T21:19:47.989+02:00
 images:
-  - uploads/articles/english/our-code-is-mainly-open-source-light.jpg
+  - https://res.cloudinary.com/monki-projects/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1617994718/website/en/uploads/articles/our-code-is-mainly-open-source/cover-light
 cover:
-  light: uploads/articles/english/our-code-is-mainly-open-source-light.jpg
-  dark: uploads/articles/english/our-code-is-mainly-open-source-dark.jpg
+  light: https://res.cloudinary.com/monki-projects/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1617994718/website/en/uploads/articles/our-code-is-mainly-open-source/cover-light
+  dark: https://res.cloudinary.com/monki-projects/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1617994718/website/en/uploads/articles/our-code-is-mainly-open-source/cover-dark
 description: Did you know we share almost everything publicly on our GitHub account? In this article, we explain you what's happening there.
 summary: Did you know we share almost everything publicly on our GitHub account? In this article, we explain you what's happening there.
 draft: false
