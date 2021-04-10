@@ -63,7 +63,7 @@ about_apps:
   enable: true
   title: Nos applications
   items:
-    - image: https://res.cloudinary.com/monki-projects/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1617990030/website/fr/apps/monki-map/monki-map-no-border
+    - image: https://res.cloudinary.com/monki-projects/image/upload/f_auto,w_520/v1617990030/website/fr/apps/monki-map/monki-map-no-border
       alt: Capture d'écran de l'application Monki Map sur iOS.
       title: Trouvez les meilleurs spots, juste à côté de vous
       content: >-

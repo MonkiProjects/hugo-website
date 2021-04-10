@@ -33,7 +33,7 @@ hero:
 features:
   enable: true
   title: Main features
-  image: https://res.cloudinary.com/monki-projects/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1617990030/website/fr/apps/monki-map/monki-map-no-border
+  image: https://res.cloudinary.com/monki-projects/image/upload/f_auto,w_512/v1617990030/website/fr/apps/monki-map/monki-map-no-border
 
   # Features on the left of the image
   left_side:
@@ -81,7 +81,7 @@ promo:
 
 ############################# Details ############################
 details:
-  - image: https://res.cloudinary.com/monki-projects/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1617990030/website/fr/apps/monki-map/monki-map-no-border
+  - image: https://res.cloudinary.com/monki-projects/image/upload/f_auto,w_512/v1617990030/website/fr/apps/monki-map/monki-map-no-border
     content: >-
       ### A map, no clutter
 
@@ -90,7 +90,7 @@ details:
       ### Satellite view in one tap
 
       We know how it works to find a spot for training… and it very often involves a satellite view 🗺 In one tap, you can switch between a clean view and one with every little details you could see from the sky.
-  - image: https://res.cloudinary.com/monki-projects/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1617990032/website/fr/apps/monki-map/spot-creation-no-border
+  - image: https://res.cloudinary.com/monki-projects/image/upload/f_auto,w_512/v1617990032/website/fr/apps/monki-map/spot-creation-no-border
     content: >-
       ### Fast spot creation
 
@@ -99,7 +99,7 @@ details:
       ### Even faster… don't finish creating the spot!
 
       Sometimes you just don't have time to write a name, and we got your back 😉 At the exact moment you create a spot, it's saved – no need to worry about loosing it. You can then find it in your drafts and add more details later.
-  - image: https://res.cloudinary.com/monki-projects/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1617990032/website/fr/apps/monki-map/map-filtering-no-border
+  - image: https://res.cloudinary.com/monki-projects/image/upload/f_auto,w_512/v1617990032/website/fr/apps/monki-map/map-filtering-no-border
     content: >-
       ### Even less clutter with filtering
 
@@ -108,12 +108,12 @@ details:
       ### Show only what matters to **you**
 
       What if you wanted to see only the spots in your city where you could train your "kong-precision" even when walls are wet? Well, it would take 3 filters, and a very intuitive search bar.
-  - image: https://res.cloudinary.com/monki-projects/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1617990032/website/fr/apps/monki-map/spot-list-filtering-no-border
+  - image: https://res.cloudinary.com/monki-projects/image/upload/f_auto,w_512/v1617990032/website/fr/apps/monki-map/spot-list-filtering-no-border
     content: >-
       ### A handy search bar
 
       As you start filtering places, we remove the filters that doesn't make sense anymore, to leave only what you need.
-  - image: https://res.cloudinary.com/monki-projects/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1617990031/website/fr/apps/monki-map/dark-mode-no-border
+  - image: https://res.cloudinary.com/monki-projects/image/upload/f_auto,w_512/v1617990031/website/fr/apps/monki-map/dark-mode-no-border
     content: >-
       ### A beautiful dark mode
 

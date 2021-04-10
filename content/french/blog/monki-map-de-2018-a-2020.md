@@ -2,12 +2,12 @@
 title: L'histoire de Monki Map, de 2018 à 2020
 linktitle: L'histoire de Monki Map, de 2018 à 2020 | Blog Monki Projects
 date: 2021-01-04T19:07:00+01:00
-lastmod: 2021-04-09T21:16:24.427+02:00
+lastmod: 2021-04-10T15:02:04.322+02:00
 images:
-  - https://res.cloudinary.com/monki-projects/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1617994923/website/fr/uploads/articles/monki-map-de-2018-a-2020/cover-light
+  - https://res.cloudinary.com/monki-projects/image/upload/f_auto,w_auto/v1617994923/website/fr/uploads/articles/monki-map-de-2018-a-2020/cover-light
 cover:
-  light: https://res.cloudinary.com/monki-projects/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1617994923/website/fr/uploads/articles/monki-map-de-2018-a-2020/cover-light
-  dark: https://res.cloudinary.com/monki-projects/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1617994923/website/fr/uploads/articles/monki-map-de-2018-a-2020/cover-dark
+  light: https://res.cloudinary.com/monki-projects/image/upload/f_auto,w_1024/v1617994923/website/fr/uploads/articles/monki-map-de-2018-a-2020/cover-light
+  dark: https://res.cloudinary.com/monki-projects/image/upload/f_auto,w_1024/v1617994923/website/fr/uploads/articles/monki-map-de-2018-a-2020/cover-dark
 description: Dans cet article, on vous explique comment Monki Map a commencé, et comment on en est arrivé là. On vous dit aussi les bons et mauvais moments que l'on a dû traverser.
 summary: Dans cet article, on vous explique comment Monki Map a commencé, et comment on en est arrivé là. On vous dit aussi les bons et mauvais moments que l'on a dû traverser.
 draft: false

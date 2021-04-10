@@ -2,12 +2,12 @@
 title: Vous pouvez nous aider à catégoriser les spots de parkour, ça vous tente ?
 linktitle: Vous pouvez nous aider à catégoriser les spots de parkour, ça vous tente ? | Blog Monki Projects
 date: 2021-01-06T23:45:00+01:00
-lastmod: 2021-04-09T21:16:24.427+02:00
+lastmod: 2021-04-10T15:02:04.322+02:00
 images:
-  - https://res.cloudinary.com/monki-projects/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1617994923/website/fr/uploads/articles/aidez-nous-a-categoriser-les-spots-de-parkour/cover-light
+  - https://res.cloudinary.com/monki-projects/image/upload/f_auto,w_auto/v1617994923/website/fr/uploads/articles/aidez-nous-a-categoriser-les-spots-de-parkour/cover-light
 cover:
-  light: https://res.cloudinary.com/monki-projects/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1617994923/website/fr/uploads/articles/aidez-nous-a-categoriser-les-spots-de-parkour/cover-light
-  dark: https://res.cloudinary.com/monki-projects/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1617994923/website/fr/uploads/articles/aidez-nous-a-categoriser-les-spots-de-parkour/cover-dark
+  light: https://res.cloudinary.com/monki-projects/image/upload/f_auto,w_1024/v1617994923/website/fr/uploads/articles/aidez-nous-a-categoriser-les-spots-de-parkour/cover-light
+  dark: https://res.cloudinary.com/monki-projects/image/upload/f_auto,w_1024/v1617994923/website/fr/uploads/articles/aidez-nous-a-categoriser-les-spots-de-parkour/cover-dark
 description: On en connaît pas (encore) tous les spots du monde. On a donc créé un tableur collaboratif pour les catégoriser et en lister les informations importantes.
 summary: On en connaît pas (encore) tous les spots du monde. On a donc créé un tableur collaboratif pour les catégoriser et en lister les informations importantes.
 draft: false
