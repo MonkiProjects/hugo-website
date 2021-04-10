@@ -1,0 +1,98 @@
+############################## Menus français ##############################
+
+#################### Menu principal (en-tête) ####################
+main:
+  - name: Accueil
+    url: /
+    weight: 1
+  - name: Apps
+    url: /apps
+    weight: 2
+  - name: Blog
+    url: /blog
+    weight: 3
+  - name: Équipe
+    url: /equipe
+    weight: 4
+
+#################### Menu de pied de page ####################
+footer:
+  ##### Apps #####
+  - identifier: apps
+    name: Apps
+    url: /apps
+    weight: 1
+  - name: Monki Map
+    url: /apps/monki-map
+    parent: apps
+    weight: 1
+  ##### Support #####
+  - identifier: support
+    name: Support
+    weight: 2
+  - name: Documentation
+    url: https://docs.monkiprojects.com
+    parent: support
+    weight: 1
+  - name: FAQ
+    parent: support
+    weight: 2
+    params:
+      class: disabled
+  - name: Guides
+    parent: support
+    weight: 3
+    params:
+      class: disabled
+  - name: État des systèmes
+    parent: support
+    weight: 99
+    params:
+      class: disabled
+  - name: Tarification
+    parent: support
+    weight: 4
+    params:
+      class: disabled
+  ##### Entreprise #####
+  - identifier: entreprise
+    name: Monki Projects
+    weight: 3
+  - name: À propos
+    parent: entreprise
+    weight: 1
+    params:
+      class: disabled
+  - name: Blog
+    url: /blog
+    parent: entreprise
+    weight: 2
+  - name: Équipe
+    url: /equipe
+    parent: entreprise
+    weight: 3
+  - name: Contact
+    url: /contact
+    parent: entreprise
+    weight: 49
+  - name: Ressources médiatiques
+    parent: entreprise
+    weight: 50
+    params:
+      class: disabled
+  ##### Légal #####
+  - identifier: legal
+    name: Légal
+    weight: 99
+  - name: Termes & conditions
+    # url: /termes-et-conditions
+    parent: legal
+    weight: 1
+    params:
+      class: disabled
+  - name: Politique de confidentialité
+    # url: /confidentialite
+    parent: legal
+    weight: 2
+    params:
+      class: disabled

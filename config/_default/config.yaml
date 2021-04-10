@@ -1,0 +1,58 @@
+############################## Default Configuration ############################
+baseurl: https://monkiprojects.com/
+title: Monki Projects
+theme: chimp-hugo
+# Post excert
+summarylength: 20
+
+# Unsafe HTML
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+
+############### Multilingual Mode ###############
+defaultContentLanguage: en
+
+
+############################## Default Parameters ############################
+params:
+  ########## Hugo Parameters ##########
+  author: Monki Projects
+
+  ########## Plugins ##########
+  plugins:
+    ##### CSS Plugins #####
+    css:
+      # - link: plugins/lorem/ipsum.css
+    ##### JS Plugins #####
+    js:
+      - link: https://kit.fontawesome.com/904a334a59.js
+
+  ########## Brand Icon ##########
+  logo:
+    ##### Icon – Icon Only #####
+    icon_only:
+      normal:
+        on_light: https://res.cloudinary.com/monki-projects/image/upload/f_auto,w_auto/v1618051692/logo/monki-projects/Monki-Projects-Logo-Dark-On-Light
+        on_dark: https://res.cloudinary.com/monki-projects/image/upload/f_auto,w_auto/v1618051692/logo/monki-projects/Monki-Projects-Logo-Light-On-Dark
+      colored:
+        on_light: https://res.cloudinary.com/monki-projects/image/upload/f_auto,w_auto/v1618051692/logo/monki-projects/Monki-Projects-Logo-Colored-On-Light
+        on_dark: https://res.cloudinary.com/monki-projects/image/upload/f_auto,w_auto/v1618051692/logo/monki-projects/Monki-Projects-Logo-Colored-On-Dark
+    ##### Icon – Vertical #####
+    vertical:
+      normal:
+        on_light: https://res.cloudinary.com/monki-projects/image/upload/f_auto,w_auto/v1618051692/logo/monki-projects/Monki-Projects-Logo-Vertical-Dark-On-Light
+        on_dark: https://res.cloudinary.com/monki-projects/image/upload/f_auto,w_auto/v1618051692/logo/monki-projects/Monki-Projects-Logo-Vertical-Light-On-Dark
+      colored:
+        on_light: https://res.cloudinary.com/monki-projects/image/upload/f_auto,w_auto/v1618051692/logo/monki-projects/Monki-Projects-Logo-Vertical-Colored-On-Light
+        on_dark: https://res.cloudinary.com/monki-projects/image/upload/f_auto,w_auto/v1618051692/logo/monki-projects/Monki-Projects-Logo-Vertical-Colored-On-Dark
+    ##### Icon – Horizontal #####
+    horizontal:
+      normal:
+        on_light: https://res.cloudinary.com/monki-projects/image/upload/f_auto,w_auto/v1618051692/logo/monki-projects/Monki-Projects-Logo-Horizontal-Dark-On-Light
+        on_dark: https://res.cloudinary.com/monki-projects/image/upload/f_auto,w_auto/v1618051692/logo/monki-projects/Monki-Projects-Logo-Horizontal-Light-On-Dark
+      colored:
+        on_light: https://res.cloudinary.com/monki-projects/image/upload/f_auto,w_auto/v1618051692/logo/monki-projects/Monki-Projects-Logo-Horizontal-Colored-On-Light
+        on_dark: https://res.cloudinary.com/monki-projects/image/upload/f_auto,w_auto/v1618051692/logo/monki-projects/Monki-Projects-Logo-Horizontal-Colored-On-Dark
