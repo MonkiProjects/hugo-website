@@ -1,18 +1,32 @@
 ---
+########## Hugo Variables ##########
+# Page title (also title in web browsers and link previews if `linktitle` is not specified)
 title: Development update – March 9, 2021
-title: Development update – March 9, 2021 | Monki Projects Blog
+# Title in web browsers and link previews (optional)
+linktitle: Development update – March 9, 2021 | Monki Projects Blog
+# Page description: paragraph in web browsers and link previews
+description: I've been working on a lot of different things these days, so here is a little recap on what I've done and what still needs more work. It's mainly infrastructure and automation, but I've also worked on the website.
+# Page summary: paragraph summarizing the page (e.g. in list cards)
+summary: I've been working on a lot of different things these days, so here is a little recap on what I've done and what still needs more work. It's mainly infrastructure and automation, but I've also worked on the website.
+# Date assigned to the page
 date: 2021-03-09T10:08:00+01:00
-lastmod: 2021-04-10T15:01:40.506+02:00
+# Last modification date
+lastmod: 2021-04-11T10:03:19.800+02:00
+# Images in link previews
 images:
   - https://res.cloudinary.com/monki-projects/image/upload/f_auto,w_auto/v1617994718/website/en/uploads/articles/dev-update-2021-03-09/cover-light
+# Page is a draft?
+# - true: Page won't show in production, will show locally with `-D` option
+# - false: Page will be visible (unless date in the future)
+draft: false
+
+########## Custom Variables ##########
+# Article author (name of a file in `team/` or `authors/`)
+author: remi-bardon
+# Article cover in light and dark mode
 cover:
   light: https://res.cloudinary.com/monki-projects/image/upload/f_auto,w_1024/v1617994718/website/en/uploads/articles/dev-update-2021-03-09/cover-light
   dark: https://res.cloudinary.com/monki-projects/image/upload/f_auto,w_1024/v1617994718/website/en/uploads/articles/dev-update-2021-03-09/cover-dark
-description: I've been working on a lot of different things these days, so here is a little recap on what I've done and what still needs more work. It's mainly infrastructure and automation, but I've also worked on the website.
-summary: I've been working on a lot of different things these days, so here is a little recap on what I've done and what still needs more work. It's mainly infrastructure and automation, but I've also worked on the website.
-draft: false
-
-author: remi-bardon
 ---
 
 ## Website

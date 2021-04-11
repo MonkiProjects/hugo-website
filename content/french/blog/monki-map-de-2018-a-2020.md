@@ -1,22 +1,39 @@
 ---
+########## Hugo Variables ##########
+# Page title (also title in web browsers and link previews if `linktitle` is not specified)
 title: L'histoire de Monki Map, de 2018 à 2020
+# Title in web browsers and link previews (optional)
 linktitle: L'histoire de Monki Map, de 2018 à 2020 | Blog Monki Projects
+# Page description: paragraph in web browsers and link previews
+description: Dans cet article, on vous explique comment Monki Map a commencé, et comment on en est arrivé là. On vous dit aussi les bons et mauvais moments que l'on a dû traverser.
+# Page summary: paragraph summarizing the page (e.g. in list cards)
+summary: Dans cet article, on vous explique comment Monki Map a commencé, et comment on en est arrivé là. On vous dit aussi les bons et mauvais moments que l'on a dû traverser.
+# Date assigned to the page
 date: 2021-01-04T19:07:00+01:00
+# Last modification date
 lastmod: 2021-04-10T15:02:04.322+02:00
+# Images in link previews
 images:
   - https://res.cloudinary.com/monki-projects/image/upload/f_auto,w_auto/v1617994923/website/fr/uploads/articles/monki-map-de-2018-a-2020/cover-light
+# Page is a draft?
+# - true: Page won't show in production, will show locally with `-D` option
+# - false: Page will be visible (unless date in the future)
+draft: false
+
+##### Localization #####
+# Translation key used for content localization (optional in default language)
+# Value is the path to the content in the default language
+# E.g. `blog/monki-map-from-2018-to-2020` is the translation key
+# for French article `blog/monki-map-de-2018-a-2020`
+translationKey: blog/monki-map-from-2018-to-2020
+
+########## Custom Variables ##########
+# Article author (name of a file in `team/` or `authors/`)
+author: remi-bardon
+# Article cover in light and dark mode
 cover:
   light: https://res.cloudinary.com/monki-projects/image/upload/f_auto,w_1024/v1617994923/website/fr/uploads/articles/monki-map-de-2018-a-2020/cover-light
   dark: https://res.cloudinary.com/monki-projects/image/upload/f_auto,w_1024/v1617994923/website/fr/uploads/articles/monki-map-de-2018-a-2020/cover-dark
-description: Dans cet article, on vous explique comment Monki Map a commencé, et comment on en est arrivé là. On vous dit aussi les bons et mauvais moments que l'on a dû traverser.
-summary: Dans cet article, on vous explique comment Monki Map a commencé, et comment on en est arrivé là. On vous dit aussi les bons et mauvais moments que l'on a dû traverser.
-draft: false
-type: blog
-
-# Localization
-translationKey: blog/monki-map-from-2018-to-2020
-
-author: remi-bardon
 ---
 
 Quand j'ai commencé le parkour, vers 2017, j'ai eu baucoup de mal à trouver de bons lieux d'entraînement dans ma petite ville aux murs qui s'effritent. Mon premier réflexe a été de chercher sur internet si je pouvais trouver une carte ou une communauté aux alentours qui pourrait m'aider. Malheureusement, dans ce lieu perdu en France, je n'ai rien trouvé. Ensuite, je suis allé chercher dans [l'App Store](https://www.apple.com/fr/app-store/), et après avoir testé les quelques applications existantes, je n'ai rien trouvé d'assez bien pour mes attentes.

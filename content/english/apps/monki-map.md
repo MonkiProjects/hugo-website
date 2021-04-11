@@ -1,18 +1,32 @@
 ---
+########## Hugo Variables ##########
+# Page title (also title in web browsers and link previews if `linktitle` is not specified)
 title: Monki Map
-description: Monki Map app from Monki Projects
+# Title in web browsers and link previews (optional)
+linktitle: Monki Map – An app by Monki Projects
+# Page description: paragraph in web browsers and link previews
+description: The Monki Map app by Monki Projects.
+# Page summary: paragraph summarizing the page (e.g. in list cards)
+summary: The Monki Map app.
+# Date assigned to the page
 date: 2020-12-25T17:35:16+01:00
+# Last modification date
 lastmod: 2021-04-10T13:25:45.531+02:00
+# Images in link previews
 images:
   - https://res.cloudinary.com/monki-projects/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1617990030/website/fr/apps/monki-map/monki-map-no-border
   - https://res.cloudinary.com/monki-projects/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1617990032/website/fr/apps/monki-map/spot-creation-no-border
   - https://res.cloudinary.com/monki-projects/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1617990032/website/fr/apps/monki-map/map-filtering-no-border
   - https://res.cloudinary.com/monki-projects/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1617990032/website/fr/apps/monki-map/spot-list-filtering-no-border
   - https://res.cloudinary.com/monki-projects/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1617990031/website/fr/apps/monki-map/dark-mode-no-border
+# Page is a draft?
+# - true: Page won't show in production, will show locally with `-D` option
+# - false: Page will be visible (unless date in the future)
 draft: false
 
+########## Custom Variables ##########
 
-############################# Hero section ############################
+##### Hero section #####
 hero:
   enable: true
   title:
@@ -28,8 +42,7 @@ hero:
     secondary:
       enable: false
 
-
-############################# Features ############################
+##### Features #####
 features:
   enable: true
   title: Main features
@@ -65,8 +78,7 @@ features:
     icon: fas fa-moon
     content: The app looks gorgeous in Dark Mode 😍
 
-
-############################# Promo ############################
+##### Promo #####
 promo:
   enable: true
   image: https://res.cloudinary.com/monki-projects/image/upload/f_auto,w_128,h_128/v1618053899/website/_default/misc/test-flight
@@ -78,8 +90,7 @@ promo:
 
     For now we focus on experienced practitioners, but soon we’ll open the beta to all of you 😀
 
-
-############################# Details ############################
+##### Details #####
 details:
   - image: https://res.cloudinary.com/monki-projects/image/upload/f_auto,w_512/v1617990030/website/fr/apps/monki-map/monki-map-no-border
     content: >-

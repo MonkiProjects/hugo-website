@@ -1,21 +1,39 @@
 ---
+########## Hugo Variables ##########
+# Page title (also title in web browsers and link previews if `linktitle` is not specified)
 title: Notre nouveau site, avec mode sombre !
+# Title in web browsers and link previews (optional)
 linktitle: Notre nouveau site, avec mode sombre ! | Blog Monki Projects
+# Page description: paragraph in web browsers and link previews
+description: Ces dernières semaines, j'ai passé beaucoup de temps à refaire entièrement notre site. Cet article détaille tous les changements qui ont été faits, avec des explications et des captures d'écrans "responsive" si besoin. Je ne rentre pas dans les détails techniques ici, donc n'hésitez pas à le lire 😉
+# Page summary: paragraph summarizing the page (e.g. in list cards)
+summary: Ces dernières semaines, j'ai passé beaucoup de temps à refaire entièrement notre site. Cet article détaille tous les changements qui ont été faits, avec des explications et des captures d'écrans "responsive" si besoin. Je ne rentre pas dans les détails techniques ici, donc n'hésitez pas à le lire 😉
+# Date assigned to the page
 date: 2021-04-06T20:29:48.415+02:00
+# Last modification date
 lastmod: 2021-04-10T15:02:04.322+02:00
+# Images in link previews
 images:
   - https://res.cloudinary.com/monki-projects/image/upload/f_auto,w_auto/v1617994923/website/fr/uploads/articles/notre-nouveau-site-avec-mode-sombre/cover-light
+# Page is a draft?
+# - true: Page won't show in production, will show locally with `-D` option
+# - false: Page will be visible (unless date in the future)
+draft: false
+
+##### Localization #####
+# Translation key used for content localization (optional in default language)
+# Value is the path to the content in the default language
+# E.g. `blog/monki-map-from-2018-to-2020` is the translation key
+# for French article `blog/monki-map-de-2018-a-2020`
+translationKey: blog/our-new-website-with-dark-mode
+
+########## Custom Variables ##########
+# Article author (name of a file in `team/` or `authors/`)
+author: remi-bardon
+# Article cover in light and dark mode
 cover:
   light: https://res.cloudinary.com/monki-projects/image/upload/f_auto,w_1024/v1617994923/website/fr/uploads/articles/notre-nouveau-site-avec-mode-sombre/cover-light
   dark: https://res.cloudinary.com/monki-projects/image/upload/f_auto,w_1024/v1617994923/website/fr/uploads/articles/notre-nouveau-site-avec-mode-sombre/cover-dark
-description: Ces dernières semaines, j'ai passé beaucoup de temps à refaire entièrement notre site. Cet article détaille tous les changements qui ont été faits, avec des explications et des captures d'écrans "responsive" si besoin. Je ne rentre pas dans les détails techniques ici, donc n'hésitez pas à le lire 😉
-summary: Ces dernières semaines, j'ai passé beaucoup de temps à refaire entièrement notre site. Cet article détaille tous les changements qui ont été faits, avec des explications et des captures d'écrans "responsive" si besoin. Je ne rentre pas dans les détails techniques ici, donc n'hésitez pas à le lire 😉
-draft: false
-
-# Localization
-translationKey: blog/our-new-website-with-dark-mode
-
-author: remi-bardon
 ---
 
 > Les captures d'écran proviennent de la version anglaise du site. Je n'avais pas envie de reprendre toutes les captures d'écrans en français, ce qui importe ici c'est la forme, pas le fond.

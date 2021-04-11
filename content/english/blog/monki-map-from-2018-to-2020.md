@@ -1,23 +1,39 @@
 ---
+########## Hugo Variables ##########
+# Page title (also title in web browsers and link previews if `linktitle` is not specified)
 title: The journey of Monki Map, from 2018 to 2020
+# Title in web browsers and link previews (optional)
 linktitle: The journey of Monki Map, from 2018 to 2020 | Monki Projects Blog
+# Page description: paragraph in web browsers and link previews
+description: In this article, we explain how Monki Map started, and how it got here. We also tell you the good and bad things that happened on the road.
+# Page summary: paragraph summarizing the page (e.g. in list cards)
+summary: In this article, we explain how Monki Map started, and how it got here. We also tell you the good and bad things that happened on the road.
+# Date assigned to the page
 date: 2021-01-02T22:22:22+01:00
+# Last modification date
 lastmod: 2021-04-10T15:01:40.506+02:00
+# Images in link previews
 images:
   - https://res.cloudinary.com/monki-projects/image/upload/f_auto,w_auto/v1617994719/website/en/uploads/articles/monki-map-from-2018-to-2020/cover-light
-cover:
-  light: https://res.cloudinary.com/monki-projects/image/upload/f_auto,w_1024/v1617994719/website/en/uploads/articles/monki-map-from-2018-to-2020/cover-light
-  dark: https://res.cloudinary.com/monki-projects/image/upload/f_auto,w_1024/v1617994719/website/en/uploads/articles/monki-map-from-2018-to-2020/cover-dark
-description: In this article, we explain how Monki Map started, and how it got here. We also tell you the good and bad things that happened on the road.
-summary: In this article, we explain how Monki Map started, and how it got here. We also tell you the good and bad things that happened on the road.
+# Page is a draft?
+# - true: Page won't show in production, will show locally with `-D` option
+# - false: Page will be visible (unless date in the future)
 draft: false
+
+##### Taxonomies #####
 # categories:
 #   - story
 # tags:
 #   - monki-map
 #   - history
 
+########## Custom Variables ##########
+# Article author (name of a file in `team/` or `authors/`)
 author: remi-bardon
+# Article cover in light and dark mode
+cover:
+  light: https://res.cloudinary.com/monki-projects/image/upload/f_auto,w_1024/v1617994719/website/en/uploads/articles/monki-map-from-2018-to-2020/cover-light
+  dark: https://res.cloudinary.com/monki-projects/image/upload/f_auto,w_1024/v1617994719/website/en/uploads/articles/monki-map-from-2018-to-2020/cover-dark
 ---
 
 When I started parkour, around 2017, I had a very hard time finding training spots in my little town with crumbling walls. My first thought was to search on the web if I could find a map or a community near me which could help me in that task. Unfortunately, in this remote part of France, I couldn't find anything. Then I tried searching [the App Store](https://www.apple.com/app-store/) for an app, but after trying a few ones, I was surprised I couldn't find anything good enough.

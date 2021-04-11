@@ -1,12 +1,24 @@
 ---
-title: Accueil
+########## Hugo Variables ##########
+# Page title (also title in web browsers and link previews if `linktitle` is not specified)
+title: Monki Projects
+# Title in web browsers and link previews (optional)
 linktitle: Accueil | Monki Projects
+# Page description: paragraph in web browsers and link previews
+# description: "TODO: Insert description here"
+# Page summary: paragraph summarizing the page (e.g. in list cards)
+# summary: "TODO: Insert summary here"
+# Date assigned to the page
 date: 2020-12-25T12:00:00.000+01:00
-lastmod: 2021-04-10T12:49:22.259+02:00
+# Last modification date
+lastmod: 2021-04-11T10:46:56.206+02:00
+# Images in link previews
 images:
   - https://res.cloudinary.com/monki-projects/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1618051692/logo/monki-projects/Monki-Projects-Logo-Horizontal-Colored-On-Dark
 
-############################# Hero section ############################
+########## Custom Variables ##########
+
+##### Hero section #####
 hero:
   enable: true
   title:
@@ -27,8 +39,7 @@ hero:
       label: Lire notre blog
       link: /blog
 
-
-############################# Valeurs ############################
+##### Valeurs #####
 features:
   enable: true
   title: Les valeurs de Monki Projects
@@ -57,8 +68,7 @@ features:
       pour l'instant on ne travaille que sur Monki Map, mais "Monki Projects" sous-entend
       qu'il y aura d'autres applications et projets.
 
-
-############################# Détails Applications #######################
+##### Détail Des Applications #####
 about_apps:
   enable: true
   title: Nos applications
@@ -73,24 +83,4 @@ about_apps:
         enable: true
         label: Découvrir **Monki Map**
         link: apps/monki-map
-
-
-################################## Abonnement ###################
-# subscription:
-#   enable: false
-#   bg_image: lorem/ipsum.jpg
-#   title: Get App Updates
-#   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-#   placeholder: Your Email Address Here
-
-
-############################## Témoignages ##########################
-# testimonials:
-#   enable: false
-#   title: Watch Review
-#   items:
-#     - name: Lorem Ipsum
-#       designation: Lorem ipsum
-#       image: lorem/ipsum
-#       content: Lorem ipsum
 ---

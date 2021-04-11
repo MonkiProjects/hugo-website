@@ -1,23 +1,32 @@
 ---
+########## Hugo Variables ##########
+# Page title (also title in web browsers and link previews if `linktitle` is not specified)
 title: Our new website, with dark mode!
+# Title in web browsers and link previews (optional)
 linktitle: Our new website, with dark mode! | Monki Projects Blog
+# Page description: paragraph in web browsers and link previews
+description: Over the past few weeks, I spent a lot of time redesigning our whole website. This article covers every change made, with explainations and responsive layout screenshots if needed. I don't go into the technical details here, so feel free to read it 😉
+# Page summary: paragraph summarizing the page (e.g. in list cards)
+summary: Over the past few weeks, I spent a lot of time redesigning our whole website. This article covers every change made, with explainations and responsive layout screenshots if needed. I don't go into the technical details here, so feel free to read it 😉
+# Date assigned to the page
 date: 2021-04-04T22:54:00.155+02:00
+# Last modification date
 lastmod: 2021-04-10T15:01:40.506+02:00
+# Images in link previews
 images:
   - https://res.cloudinary.com/monki-projects/image/upload/f_auto,w_auto/v1617994719/website/en/uploads/articles/our-new-website-with-dark-mode/cover-light
+# Page is a draft?
+# - true: Page won't show in production, will show locally with `-D` option
+# - false: Page will be visible (unless date in the future)
+draft: false
+
+########## Custom Variables ##########
+# Article author (name of a file in `team/` or `authors/`)
+author: remi-bardon
+# Article cover in light and dark mode
 cover:
   light: https://res.cloudinary.com/monki-projects/image/upload/f_auto,w_1024/v1617994719/website/en/uploads/articles/our-new-website-with-dark-mode/cover-light
   dark: https://res.cloudinary.com/monki-projects/image/upload/f_auto,w_1024/v1617994719/website/en/uploads/articles/our-new-website-with-dark-mode/cover-dark
-description: Over the past few weeks, I spent a lot of time redesigning our whole website. This article covers every change made, with explainations and responsive layout screenshots if needed. I don't go into the technical details here, so feel free to read it 😉
-summary: Over the past few weeks, I spent a lot of time redesigning our whole website. This article covers every change made, with explainations and responsive layout screenshots if needed. I don't go into the technical details here, so feel free to read it 😉
-draft: false
-# categories:
-#   - story
-# tags:
-#   - monki-map
-#   - history
-
-author: remi-bardon
 ---
 
 ## Global

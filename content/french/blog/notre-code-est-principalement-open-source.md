@@ -1,22 +1,39 @@
 ---
+########## Hugo Variables ##########
+# Page title (also title in web browsers and link previews if `linktitle` is not specified)
 title: Une grande partie de notre code et de notre infrastructure est *open-source*, n'hésitez pas à contribuer!
+# Title in web browsers and link previews (optional)
 linktitle: Une grande partie de notre code et de notre infrastructure est *open-source*, n'hésitez pas à contribuer! | Blog Monki Projects
+# Page description: paragraph in web browsers and link previews
+description: Hormis le code de nos applications et de nos APIs, on partage tout publiquement sur notre compte GitHub.
+# Page summary: paragraph summarizing the page (e.g. in list cards)
+summary: Saviez-vous que l'on partage quasiment tout publiquement saur notre compte GitHub ? Dans cet article, on vous explique tout ce qu'il s'y passe.
+# Date assigned to the page
 date: 2020-12-25T22:20:34+01:00
+# Last modification date
 lastmod: 2021-04-10T15:02:04.322+02:00
+# Images in link previews
 images:
   - https://res.cloudinary.com/monki-projects/image/upload/f_auto,w_auto/v1617994923/website/fr/uploads/articles/notre-code-est-principalement-open-source/cover-light
+# Page is a draft?
+# - true: Page won't show in production, will show locally with `-D` option
+# - false: Page will be visible (unless date in the future)
+draft: false
+
+##### Localization #####
+# Translation key used for content localization (optional in default language)
+# Value is the path to the content in the default language
+# E.g. `blog/monki-map-from-2018-to-2020` is the translation key
+# for French article `blog/monki-map-de-2018-a-2020`
+translationKey: blog/our-code-is-mainly-open-source
+
+########## Custom Variables ##########
+# Article author (name of a file in `team/` or `authors/`)
+author: remi-bardon
+# Article cover in light and dark mode
 cover:
   light: https://res.cloudinary.com/monki-projects/image/upload/f_auto,w_1024/v1617994923/website/fr/uploads/articles/notre-code-est-principalement-open-source/cover-light
   dark: https://res.cloudinary.com/monki-projects/image/upload/f_auto,w_1024/v1617994923/website/fr/uploads/articles/notre-code-est-principalement-open-source/cover-dark
-description: Hormis le code de nos applications et de nos APIs, on partage tout publiquement sur notre compte GitHub.
-summary: Saviez-vous que l'on partage quasiment tout publiquement saur notre compte GitHub ? Dans cet article, on vous explique tout ce qu'il s'y passe.
-draft: false
-type: blog
-
-# Localization
-translationKey: blog/our-code-is-mainly-open-source
-
-author: remi-bardon
 ---
 
 > Cet article est destiné à des développeurs. Vous pouvez essayer de le lire sans l'être, mais on ne vous promet pas que vous comprendrez 🙃

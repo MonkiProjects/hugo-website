@@ -1,22 +1,39 @@
 ---
+########## Hugo Variables ##########
+# Page title (also title in web browsers and link previews if `linktitle` is not specified)
 title: Monki Map
-description: L'application Monki Map de Monki Projects
+# Title in web browsers and link previews (optional)
+linktitle: Monki Map – Une application par Monki Projects
+# Page description: paragraph in web browsers and link previews
+description: L'application Monki Map de Monki Projects.
+# Page summary: paragraph summarizing the page (e.g. in list cards)
+summary: L'application Monki Map.
+# Date assigned to the page
 date: 2020-12-25T17:35:16+01:00
+# Last modification date
 lastmod: 2021-04-10T13:25:45.531+02:00
+# Images in link previews
 images:
   - https://res.cloudinary.com/monki-projects/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1617990030/website/fr/apps/monki-map/monki-map-no-border
   - https://res.cloudinary.com/monki-projects/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1617990032/website/fr/apps/monki-map/spot-creation-no-border
   - https://res.cloudinary.com/monki-projects/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1617990032/website/fr/apps/monki-map/map-filtering-no-border
   - https://res.cloudinary.com/monki-projects/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1617990032/website/fr/apps/monki-map/spot-list-filtering-no-border
   - https://res.cloudinary.com/monki-projects/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1617990031/website/fr/apps/monki-map/dark-mode-no-border
+# Page is a draft?
+# - true: Page won't show in production, will show locally with `-D` option
+# - false: Page will be visible (unless date in the future)
 draft: false
-type: apps
 
-# Localization
+##### Localization #####
+# Translation key used for content localization (optional in default language)
+# Value is the path to the content in the default language
+# E.g. `blog/monki-map-from-2018-to-2020` is the translation key
+# for French article `blog/monki-map-de-2018-a-2020`
 translationKey: apps/monki-map
 
+########## Custom Variables ##########
 
-############################# Hero section ############################
+##### Hero section #####
 hero:
   enable: true
   title:
@@ -33,7 +50,7 @@ hero:
       enable: false
 
 
-############################# Features ############################
+##### Features #####
 features:
   enable: true
   title: Fonctionnalités principales
@@ -70,7 +87,7 @@ features:
     content: L'application est magnifique en mode sombre 😍
 
 
-############################# Promo ############################
+##### Promo #####
 promo:
   enable: true
   image: https://res.cloudinary.com/monki-projects/image/upload/f_auto,w_128,h_128/v1618053899/website/_default/misc/test-flight
@@ -83,7 +100,7 @@ promo:
     Pour l'instant on se concentre sur des personnes expérimentés, mais bientôt on ouvrira la bêta pour vous tous 😀
 
 
-############################# Details ############################
+##### Details #####
 details:
   - image: https://res.cloudinary.com/monki-projects/image/upload/f_auto,w_512/v1617990030/website/fr/apps/monki-map/monki-map-no-border
     content: >-

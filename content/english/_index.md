@@ -1,12 +1,24 @@
 ---
-title: Home
+########## Hugo Variables ##########
+# Page title (also title in web browsers and link previews if `linktitle` is not specified)
+title: Monki Projects
+# Title in web browsers and link previews (optional)
 linktitle: Home | Monki Projects
+# Page description: paragraph in web browsers and link previews
+# description: "TODO: Insert description here"
+# Page summary: paragraph summarizing the page (e.g. in list cards)
+# summary: "TODO: Insert summary here"
+# Date assigned to the page
 date: 2020-12-25T12:00:00.000+01:00
-lastmod: 2021-04-10T12:50:31.363+02:00
+# Last modification date
+lastmod: 2021-04-11T10:50:34.952+02:00
+# Images in link previews
 images:
   - https://res.cloudinary.com/monki-projects/image/upload/f_auto,q_auto,dpr_auto,w_auto/v1618051692/logo/monki-projects/Monki-Projects-Logo-Horizontal-Colored-On-Dark
 
-############################# Hero section ############################
+########## Custom Variables ##########
+
+##### Hero section #####
 hero:
   enable: true
   title:
@@ -26,8 +38,7 @@ hero:
       label: Read our blog
       link: /blog
 
-
-############################# Values ############################
+##### Values #####
 features:
   enable: true
   title: Monki Projects' core values
@@ -59,8 +70,7 @@ features:
       we're only working on Monki Map for now, but "Monki Projects" implies
       there will be other apps and projects in the future.
 
-
-############################# Applications details #######################
+##### Applications details #####
 about_apps:
   enable: true
   title: Our apps
@@ -75,24 +85,4 @@ about_apps:
         enable: true
         label: Discover **Monki Map**
         link: apps/monki-map
-
-
-################################## Subscription ###################
-# subscription:
-#   enable: false
-#   bg_image: lorem/ipsum.jpg
-#   title: Get App Updates
-#   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-#   placeholder: Your Email Address Here
-
-
-############################## Testimonials ##########################
-# testimonials:
-#   enable: false
-#   title: Lorem ipsum
-#   items:
-#     - name: Lorem Ipsum
-#       designation: Lorem ipsum
-#       image: lorem/ipsum
-#       content: Lorem ipsum
 ---
