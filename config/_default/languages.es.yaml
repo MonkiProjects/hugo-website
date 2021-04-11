@@ -1,0 +1,14 @@
+############################## Español ##############################
+languageName: Es 🇪🇸
+languageCode: es-ES
+contentDir: content/spanish
+weight: 3
+
+# Language overrides
+copyright: |-
+  Hecho con ❤️ en Francia y orgullosamente alojado en [Clever Cloud](https://clever-cloud.com).
+
+  Copyright &copy; 2020-2021 Monki Projects.
+
+params:
+  description: Aplicaciones y herramientas para la comunidad del parkour – un deporte urbano.

@@ -1,0 +1,98 @@
+############################## English menus ##############################
+
+#################### Main menu (header) ####################
+main:
+  - name: Home
+    url: /
+    weight: 1
+  - name: Apps
+    url: /apps
+    weight: 2
+  - name: Blog
+    url: /blog
+    weight: 3
+  - name: Team
+    url: /team
+    weight: 3
+
+#################### Footer menu ####################
+footer:
+  ##### Apps #####
+  - identifier: apps
+    name: Apps
+    url: /apps
+    weight: 1
+  - name: Monki Map
+    url: /apps/monki-map
+    parent: apps
+    weight: 1
+  ##### Support #####
+  - identifier: support
+    name: Support
+    weight: 2
+  - name: Documentation
+    url: https://docs.monkiprojects.com
+    parent: support
+    weight: 1
+  - name: FAQ
+    parent: support
+    weight: 2
+    params:
+      class: disabled
+  - name: Guides
+    parent: support
+    weight: 3
+    params:
+      class: disabled
+  - name: System status
+    parent: support
+    weight: 99
+    params:
+      class: disabled
+  - name: Pricing
+    parent: support
+    weight: 4
+    params:
+      class: disabled
+  ##### Company #####
+  - identifier: company
+    name: Monki Projects
+    weight: 3
+  - name: About
+    parent: company
+    weight: 1
+    params:
+      class: disabled
+  - name: Blog
+    url: /blog
+    parent: company
+    weight: 2
+  - name: Team
+    url: /team
+    parent: company
+    weight: 3
+  - name: Contact
+    url: /contact
+    parent: company
+    weight: 49
+  - name: Media resources
+    parent: company
+    weight: 50
+    params:
+      class: disabled
+  ##### Legal #####
+  - identifier: legal
+    name: Legal
+    weight: 99
+  - name: Terms & Conditions
+    # url: /terms-and-conditions
+    parent: legal
+    weight: 1
+    params:
+      class: disabled
+  - name: Privacy Policy
+    # url: /privacy-policy
+    parent: legal
+    weight: 2
+    params:
+      class: disabled
