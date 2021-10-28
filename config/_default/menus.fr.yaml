@@ -6,13 +6,13 @@ main:
     url: /
     weight: 1
   - name: Apps
-    url: /apps
+    url: /apps/
     weight: 2
   - name: Blog
-    url: /blog
+    url: /blog/
     weight: 3
   - name: Équipe
-    url: /equipe
+    url: /equipe/
     weight: 4
 
 #################### Menu de pied de page ####################
@@ -20,10 +20,10 @@ footer:
   ##### Apps #####
   - identifier: apps
     name: Apps
-    url: /apps
+    url: /apps/
     weight: 1
   - name: Monki Map
-    url: /apps/monki-map
+    url: /apps/monki-map/
     parent: apps
     weight: 1
   ##### Support #####
@@ -31,7 +31,7 @@ footer:
     name: Support
     weight: 2
   - name: Documentation
-    url: https://docs.monkiprojects.com
+    url: https://docs.monkiprojects.com/
     parent: support
     weight: 1
   - name: FAQ
@@ -64,15 +64,15 @@ footer:
     params:
       class: disabled
   - name: Blog
-    url: /blog
+    url: /blog/
     parent: entreprise
     weight: 2
   - name: Équipe
-    url: /equipe
+    url: /equipe/
     parent: entreprise
     weight: 3
   - name: Contact
-    url: /contact
+    url: /contact/
     parent: entreprise
     weight: 49
   - name: Ressources médiatiques
@@ -85,13 +85,13 @@ footer:
     name: Légal
     weight: 99
   - name: Termes & conditions
-    # url: /termes-et-conditions
+    # url: /termes-et-conditions/
     parent: legal
     weight: 1
     params:
       class: disabled
   - name: Politique de confidentialité
-    # url: /confidentialite
+    # url: /confidentialite/
     parent: legal
     weight: 2
     params:
