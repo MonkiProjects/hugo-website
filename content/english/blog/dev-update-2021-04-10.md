@@ -39,7 +39,7 @@ to see what's changed.
 
 Using `hugo --templateMetrics --templateMetricsHints`, I managed to go from ≈14s build time to ≈10s.
 
-4 seconds is not much, but the real thing is that now build time is quite linear, while it was cubic before.
+4 seconds is not much, but the real thing is that now build time is quite linear, while it was polynomial before.
 What I mean by that is that every new page generated [`partial`s](https://gohugo.io/templates/partials/) – page components.
 Most of those partials were the same on each page (e.g. the footer), or in each section of the website (e.g. the header).
 
