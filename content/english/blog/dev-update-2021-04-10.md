@@ -14,7 +14,7 @@ date: 2021-04-10T14:08:59.374+02:00
 lastmod: 2021-11-24T00:13:49.367+01:00
 # Images in link previews
 images:
-  - https://res.cloudinary.com/monki-projects/image/upload/v1637709026/website/en/uploads/articles/dev-update-2021-04-10/cover-light.jpg
+  - https://res.cloudinary.com/monki-projects/image/upload/f_auto,w_auto/v1637709026/website/en/uploads/articles/dev-update-2021-04-10/cover-light
 # Page is a draft?
 # - true: Page won't show in production, will show locally with `-D` option
 # - false: Page will be visible (unless date in the future)
@@ -25,8 +25,8 @@ draft: false
 author: remi-bardon
 # Article cover in light and dark mode
 cover:
-  light: https://res.cloudinary.com/monki-projects/image/upload/v1637709026/website/en/uploads/articles/dev-update-2021-04-10/cover-light.jpg
-  dark: https://res.cloudinary.com/monki-projects/image/upload/v1637709025/website/en/uploads/articles/dev-update-2021-04-10/cover-dark.jpg
+  light: https://res.cloudinary.com/monki-projects/image/upload/f_auto,w_auto/v1637709026/website/en/uploads/articles/dev-update-2021-04-10/cover-light
+  dark: https://res.cloudinary.com/monki-projects/image/upload/f_auto,w_auto/v1637709025/website/en/uploads/articles/dev-update-2021-04-10/cover-dark
 ---
 
 ## New website
