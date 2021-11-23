@@ -58,7 +58,7 @@ This change saves a few seconds now, but will have a great impact when the websi
 
 See <https://web.dev/performance-scoring/> for metrics scores calculation.
 
-### Pain points
+### Pain points (fixed or not)
 
 - Images not properly sized
 
