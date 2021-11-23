@@ -32,7 +32,7 @@ cover:
 ## New website
 
 The biggest thing I've done for the past weeks is creating a new website.
-I encourage you to read my last article, ["Our new website, with dark mode!"]({{< ref "/apps/monki-map" >}})
+I encourage you to read my last article, ["Our new website, with dark mode!"]({{< ref "/blog/our-new-website-with-dark-mode" >}})
 to see what's changed.
 
 ## Website building performance
