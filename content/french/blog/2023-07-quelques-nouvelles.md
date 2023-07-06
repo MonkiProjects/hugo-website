@@ -15,7 +15,7 @@ _creation: 2023-06-29
 lastmod: 2023-07-05T20:00:00+02:00
 # Images in link previews
 images:
-  - https://res.cloudinary.com/monki-projects/image/upload/f_auto,w_auto/v1617994923/website/fr/uploads/articles/2023-07-quelques-nouvelles/cover-light
+  - https://res.cloudinary.com/monki-projects/image/upload/f_auto,w_auto/v1688582246/website/fr/uploads/articles/2023-07-quelques-nouvelles/cover-light
 # Page is a draft?
 # - true: Page won't show in production, will show locally with `-D` option
 # - false: Page will be visible (unless date in the future)
@@ -33,8 +33,8 @@ draft: false
 author: remi-bardon
 # Article cover in light and dark mode
 cover:
-  light: https://res.cloudinary.com/monki-projects/image/upload/f_auto,w_1024/v1617994923/website/fr/uploads/articles/2023-07-quelques-nouvelles/cover-light
-  dark: https://res.cloudinary.com/monki-projects/image/upload/f_auto,w_1024/v1617994923/website/fr/uploads/articles/2023-07-quelques-nouvelles/cover-dark
+  light: https://res.cloudinary.com/monki-projects/image/upload/f_auto,w_1024/v1688582246/website/fr/uploads/articles/2023-07-quelques-nouvelles/cover-light
+  dark: https://res.cloudinary.com/monki-projects/image/upload/f_auto,w_1024/v1688582246/website/fr/uploads/articles/2023-07-quelques-nouvelles/cover-dark
 _lang: fr-FR
 ---
 
